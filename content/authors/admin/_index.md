@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 方闻绩
+title: Wenji Fang
 
 # Name pronunciation (optional)
-name_pronunciation: Fang Wen ji
+# name_pronunciation: Fang Wen ji
 
 # Full name (for SEO)
 first_name: Wenji
@@ -31,23 +31,23 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:wfang838@connect.ust.hk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: http://linkedin.com/in/wenji-fang-1174891b3
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=YGIfGd4AAAAJ&hl=zh-CN&oi=ao
+  - icon: brands/github
+    url: https://github.com/fangwenji
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - AI for EDA
   - Computational Linguistics
   - Information Retrieval
 
@@ -183,4 +183,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm Wenji Fang (方闻绩), a Ph.D. student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology, advised by [Prof. Zhiyao Xie](https://zhiyaoxie.com). Previously, I received my M.Phil from the Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/), and my B.Eng from Nanjing University of Aeronautics and Astronautics.
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/FANG_Wenji_CV.pdf" "newtab" >}}CV/resumé{{< /staticref >}}. -->

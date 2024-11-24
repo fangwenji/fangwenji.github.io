@@ -55,7 +55,7 @@ education:
   - area: PhD in Electronic and Computer Engineering
     institution: HKUST
     date_start: 2024-09-01
-    date_end: Now
+    date_end: ''
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -88,66 +88,67 @@ work:
     company_name: HKUST(GZ)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-12-12
+    date_end: '2022-08-01'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Achieve an end-to-end unbounded formal verification framework for microprocessors
+      - Employ symbolic simulation technique to model the microprocessor
+      - Verify the functional correctness properties
+      - Test the framework with multiple pipelined processor test cases
+  - position: VLSI Physical Design Intern [("One Student One Chip" Project)](https://ysyx.oscc.cc/) 
+    company_name: Peng Cheng Laboratory
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-07-15
+    date_end: 2021-12-10
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Complete an entire physical design process of an SoC
+      - Participate in defining clock specification, design constriants  
+      - Design a single-cycle RISC-V processor
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.

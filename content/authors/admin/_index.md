@@ -48,20 +48,20 @@ profiles:
 
 interests:
   - AI for EDA
-  - Computational Linguistics
-  - Information Retrieval
+  - Circuit Quality Evaluation
+  - Circuit Functional Verification
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Electronic and Computer Engineering
+    institution: Hong Kong University of Science and Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: M.Phil. in Microelectronics
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -185,4 +185,3 @@ awards:
 
 Hi! I'm Wenji Fang (方闻绩), a Ph.D. student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology, advised by [Prof. Zhiyao Xie](https://zhiyaoxie.com). Previously, I received my M.Phil from the Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/), and my B.Eng from Nanjing University of Aeronautics and Astronautics.
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/FANG_Wenji_CV.pdf" "newtab" >}}CV/resumé{{< /staticref >}}. -->

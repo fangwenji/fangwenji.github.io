@@ -157,7 +157,7 @@ work:
 awards:
   - title: Research Assistant
     url: 
-    date_start: 2021-12-12
+    date_start: '2021-12-12'
     date_end: '2022-08-01'
     awarder: HKUST(GZ)
     icon: hkust

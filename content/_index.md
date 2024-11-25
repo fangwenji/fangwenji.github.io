@@ -37,15 +37,15 @@ sections:
       subtitle: ''
       text: |-
         #### <mark>Circuit Foundation Model</mark>
-          - Large Circuit Model[[SCIS'24](https://link.springer.com/journal/11432)]
-          - RTL-netlist encoder alignment[ASPDAC'25].
+          - Large Circuit Model [[SCIS'24](https://link.springer.com/journal/11432)]
+          - RTL-netlist encoder alignment [ASPDAC'25].
 
         #### <mark>VLSI Design Quality Evaluation</mark>
-          - RTL-stage fine-grained timing slack prediction[[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)]
-          - RTL-stage overall PPA prediction[[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)]
+          - RTL-stage fine-grained timing slack prediction [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)]
+          - RTL-stage overall PPA prediction [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)]
         
         #### <mark>Hardware Formal Verification</mark>
-          - LLM-aided assertion generation[ASPDAC'25]&[ICCAD'24]
+          - LLM-aided assertion generation [ASPDAC'25]&[ICCAD'24]
           - CPU Symbolic simulation [[TACAS'23](https://link.springer.com/chapter/10.1007/978-3-031-30820-8_2)]&[[TCAD'23](https://ieeexplore.ieee.org/abstract/document/10178019/)]
 
     design:

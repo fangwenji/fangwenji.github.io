@@ -1,5 +1,5 @@
 ---
-title: PyTorch
+title: VLSI Design Quality Evaluation
 date: 2023-10-26
 external_link: https://github.com/pytorch/pytorch
 featured: true

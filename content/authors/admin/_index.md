@@ -56,7 +56,8 @@ education:
     institution: HKUST
     date_start: 2024-09-01
     date_end: ''
-    # summary: |
+    summary: |
+        - Supervisor: Prof. Zhiyao Xie
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
     #   text: 'Read Thesis'
@@ -65,8 +66,9 @@ education:
     institution: HKUST(GZ)
     date_start: 2022-09-01
     date_end: 2024-08-01
-    # summary: |
-    #   GPA: 3.8/4.0
+    summary: |
+      - GPA: 4.0/4.3
+      - Supervisor: Prof. Hongce Zhang & Prof. Zhiyao Xie
 
     #   Courses included:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -76,8 +78,8 @@ education:
     institution: NUAA
     date_start: 2017-09-01
     date_end: 2021-06-01
-    # summary: |
-    #   GPA: 3.4/4.0
+    summary: |
+      - GPA: 4.0/5.0
       
     #   Courses included:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -91,11 +93,8 @@ work:
     date_start: 2021-12-12
     date_end: '2022-08-01'
     summary: |2-
-      Responsibilities include:
+      - Supervisor: Prof. Hongce Zhang
       - Achieve an end-to-end unbounded formal verification framework for microprocessors
-      - Employ symbolic simulation technique to model the microprocessor
-      - Verify the functional correctness properties
-      - Test the framework with multiple pipelined processor test cases
   - position: VLSI Physical Design Intern [("One Student One Chip" Project)](https://ysyx.oscc.cc/) 
     company_name: Peng Cheng Laboratory
     company_url: ''
@@ -103,10 +102,8 @@ work:
     date_start: 2021-07-15
     date_end: 2021-12-10
     summary: |
-      Responsibilities include:
+      - Mentor: Dr. Biwei Xie
       - Complete an entire physical design process of an SoC
-      - Participate in defining clock specification, design constriants  
-      - Design a single-cycle RISC-V processor
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -154,29 +151,29 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Research Assistant
-    url: 
-    date_start: '2021-12-12'
-    date_end: '2022-08-01'
-    awarder: HKUST(GZ)
-    icon: hkust
-    summary: |
-      Responsibilities include:
-      - Achieve an end-to-end unbounded formal verification framework for microprocessors
-      - Employ symbolic simulation technique to model the microprocessor
-      - Verify the functional correctness properties
-      - Test the framework with multiple pipelined processor test cases
-  - title: VLSI Physical Design Intern [("One Student One Chip" Project)](https://ysyx.oscc.cc/) 
-    url: 
-    date: '2021-07-15'
-    awarder: Peng Cheng Laboratory
-    icon: pcl
-    summary: |
-      Responsibilities include:
-      - Complete an entire physical design process of an SoC
-      - Participate in defining clock specification, design constriants  
-      - Design a single-cycle RISC-V processor
+# awards:
+#   - title: Research Assistant
+#     url: 
+#     date_start: '2021-12-12'
+#     date_end: '2022-08-01'
+#     awarder: HKUST(GZ)
+#     icon: hkust
+#     summary: |
+#       Responsibilities include:
+#       - Achieve an end-to-end unbounded formal verification framework for microprocessors
+#       - Employ symbolic simulation technique to model the microprocessor
+#       - Verify the functional correctness properties
+#       - Test the framework with multiple pipelined processor test cases
+#   - title: VLSI Physical Design Intern [("One Student One Chip" Project)](https://ysyx.oscc.cc/) 
+#     url: 
+#     date: '2021-07-15'
+#     awarder: Peng Cheng Laboratory
+#     icon: pcl
+#     summary: |
+#       Responsibilities include:
+#       - Complete an entire physical design process of an SoC
+#       - Participate in defining clock specification, design constriants  
+#       - Design a single-cycle RISC-V processor
 
 ---
 

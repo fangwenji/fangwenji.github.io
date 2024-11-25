@@ -45,17 +45,17 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Projects
+      title: Projects
       filters:
         folders:
-          - publication
+          - project
         featured_only: true
     design:
       view: article-grid
       columns: 3
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:

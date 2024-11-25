@@ -52,7 +52,7 @@ sections:
       columns: '1'
       css_class: light
       background:
-        color: grey
+        color: '#F7F7F7'
   # - block: collection
   #   id: project
   #   content:

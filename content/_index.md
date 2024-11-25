@@ -31,6 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: overview
     content:
       title: 'Research Overview'
       subtitle: ''
@@ -71,6 +72,7 @@ sections:
     design:
       view: citation
   - block: markdown
+    id: awards
     content:
       title: 'Awards'
       subtitle: ''
@@ -87,6 +89,7 @@ sections:
     design:
       columns: '1'
   - block: markdown
+    id: teaching
     content:
       title: 'Teaching'
       subtitle: ''

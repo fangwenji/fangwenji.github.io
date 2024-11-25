@@ -8,11 +8,11 @@ main:
     url: /
     weight: 10
   - name: Research
-    url: /#Research Overview
-    weight: 30
+    url: /#overview
+    weight: 20
   - name: Publication
-    url: /#First-Authored Publications
-    weight: 11
+    url: /#publication
+    weight: 30
   # - name: Talks
   #   url: /#talks
   #   weight: 12
@@ -20,8 +20,8 @@ main:
   #   url: /#news
   #   weight: 13
   - name: Awards
-    url: /Awards
-    weight: 20
-  - name: Teaching
-    url: /Teaching
+    url: /#awards
     weight: 40
+  - name: Teaching
+    url: /#teaching
+    weight: 50

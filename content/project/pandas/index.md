@@ -1,14 +1,14 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Circuit Foundation Model
+date: 2024
+# external_link: https://github.com/pandas-dev/pandas
 featured: true
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+# tags:
+#   - Hugo
+#   - Wowchemy
+#   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Pre-trained circuit foundation models that provide support for various circuit downstream tasks (e.g., design quality preidction, functional reasoning, etc.)
 
 <!--more-->

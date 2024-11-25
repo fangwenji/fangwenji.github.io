@@ -95,7 +95,7 @@ work:
     summary: |2-
       - Supervisor: Prof. Hongce Zhang
       - Achieve an end-to-end unbounded formal verification framework for microprocessors
-  - position: VLSI Physical Design Intern (["One Student One Chip" Project](https://ysyx.oscc.cc/))
+  - position: VLSI Physical Design Intern [[One Student One Chip Project](https://ysyx.oscc.cc)]
     company_name: Peng Cheng Laboratory
     company_url: ''
     company_logo: ''

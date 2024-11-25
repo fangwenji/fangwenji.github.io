@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Phd Student
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -57,7 +57,7 @@ education:
     date_start: 2024-09-01
     date_end: ''
     summary: |
-        - Supervisor: Prof. Zhiyao Xie
+        - Advisor: Prof. Zhiyao Xie
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
     #   text: 'Read Thesis'
@@ -68,7 +68,7 @@ education:
     date_end: 2024-08-01
     summary: |
       - GPA: 4.0/4.3
-      - Supervisor: Prof. Hongce Zhang & Prof. Zhiyao Xie
+      - Advisor: Prof. Hongce Zhang & Prof. Zhiyao Xie
 
     #   Courses included:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -93,7 +93,7 @@ work:
     date_start: 2021-12-12
     date_end: '2022-08-01'
     summary: |2-
-      - Supervisor: Prof. Hongce Zhang
+      - Advisor: Prof. Hongce Zhang
       - Achieve an end-to-end unbounded formal verification framework for microprocessors
   - position: VLSI Physical Design Intern [[One Student One Chip Project](https://ysyx.oscc.cc)]
     company_name: Peng Cheng Laboratory

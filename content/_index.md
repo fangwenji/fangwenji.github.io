@@ -50,6 +50,9 @@ sections:
 
     design:
       columns: '1'
+      css_class: light
+      background:
+        color: grey
   # - block: collection
   #   id: project
   #   content:

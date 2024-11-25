@@ -49,17 +49,17 @@ sections:
 
     design:
       columns: '1'
-  - block: collection
-    id: project
-    content:
-      title: Research Projects
-      filters:
-        folders:
-          - project
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 3
+  # - block: collection
+  #   id: project
+  #   content:
+  #     title: Research Projects
+  #     filters:
+  #       folders:
+  #         - project
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 3
   - block: collection
     content:
       title: First-Authored Publications

@@ -32,20 +32,24 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research Overview'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        **Circuit Foundation Model**
+          - RTL-netlist encoder alignment[ASPDAC'25].
+        **VLSI Design Quality Evaluation**
+          - RTL-stage fine-grained timing slack prediction[DAC'24]
+          - RTL-stage design overall PPA prediction[TCAD'24]&[ICCAD'23]
+        **Hardware Formal Verification**
+          - LLM-aided assertion generation[ASPDAC'25]&[ICCAD'24]
+          - Symbolic simulation for micro-processors[TACAS'23]&[TCAD'23]
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
     id: project
     content:
-      title: Projects
+      title: Research Projects
       filters:
         folders:
           - project
@@ -55,7 +59,7 @@ sections:
       columns: 3
   - block: collection
     content:
-      title: Publications
+      title: First-Authored Publications
       text: ""
       filters:
         folders:

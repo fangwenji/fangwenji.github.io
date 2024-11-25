@@ -86,6 +86,14 @@ sections:
         * First Class Scholarship of NUAA, 2017-2021
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: 'Teaching'
+      subtitle: ''
+      text: |-
+        * TA of MICS6000H Logic Design Automation of Digital Systems, HKUST(GZ)
+    design:
+      columns: '1'
   # - block: collection
   #   id: talks
   #   content:

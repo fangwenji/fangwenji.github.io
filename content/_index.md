@@ -92,6 +92,9 @@ sections:
         * First Class Scholarship of NUAA, 2017-2021
     design:
       columns: '1'
+      css_class: light
+      background:
+        color: '#F7F7F7'
   - block: markdown
     id: teaching
     content:

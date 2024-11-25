@@ -63,6 +63,22 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: markdown
+    content:
+      title: 'Awards'
+      subtitle: ''
+      text: |-
+        * DAC Young Fellow, 2024
+        * ISLAD Best Paper Nomination, 2024
+        * ISLAD Travel Grant, 2024
+        * Full Postgraduate Studentship of HKUST, 2024-Now
+        * ICCAD Student Scholar Program Grant, 2023
+        * 3rd Place Award of [EDAthon Contest](https://sites.google.com/view/ceda-hk/edathon-2023), 2023
+        * Full Postgraduate Studentship of HKUST(GZ), 2022-2024
+        * Infineon Technology Scholarship, 2020
+        * First Class Scholarship of NUAA, 2017-2021
+    design:
+      columns: '1'
   # - block: collection
   #   id: talks
   #   content:

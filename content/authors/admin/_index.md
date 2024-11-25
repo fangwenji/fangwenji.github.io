@@ -159,7 +159,7 @@ awards:
     url: 
     date: '2021-12-12'
     awarder: HKUST(GZ)
-    icon: coursera
+    icon: hkust
     summary: |
       Responsibilities include:
       - Achieve an end-to-end unbounded formal verification framework for microprocessors
@@ -170,7 +170,7 @@ awards:
     url: 
     date: '2021-07-15'
     awarder: Peng Cheng Laboratory
-    icon: edx
+    icon: pcl
     summary: |
       Responsibilities include:
       - Complete an entire physical design process of an SoC

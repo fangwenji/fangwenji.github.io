@@ -43,7 +43,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: project
     content:
       title: Projects
       filters:

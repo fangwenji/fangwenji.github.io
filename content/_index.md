@@ -68,12 +68,13 @@ sections:
     id: publication
     content:
       title: Publications
+      class: "author-notes"
       text: ""
       count: 100
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       view: citation
   - block: markdown

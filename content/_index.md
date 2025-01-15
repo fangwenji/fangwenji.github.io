@@ -67,7 +67,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: First-Authored Publications
+      title: Publications
       text: ""
       filters:
         folders:

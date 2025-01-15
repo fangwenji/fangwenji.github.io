@@ -51,59 +51,59 @@ interests:
   - Circuit Quality Evaluation
   - Circuit Functional Verification
 
-# education:
-#   - area: PhD in Electronic and Computer Engineering
-#     institution: HKUST
-#     date_start: 2024-09-01
-#     date_end: ''
-#     summary: |
-#         - Advisor: Prof. Zhiyao Xie
-#     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-#     # button:
-#     #   text: 'Read Thesis'
-#     #   url: 'https://example.com'
-#   - area: MPhil in Microelectronics
-#     institution: HKUST(GZ)
-#     date_start: 2022-09-01
-#     date_end: 2024-08-01
-#     summary: |
-#       - GPA: 4.0/4.3
-#       - Advisor: Prof. Hongce Zhang & Prof. Zhiyao Xie
+education:
+  - area: PhD in ECE
+    institution: HKUST
+    date_start: 2024-09-01
+    date_end: ''
+    summary: |
+        - Advisor: Prof. Zhiyao Xie
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: MPhil in Microelectronics
+    institution: HKUST(GZ)
+    date_start: 2022-09-01
+    date_end: 2024-08-01
+    summary: |
+      - GPA: 4.0/4.3
+      - Advisor: Prof. Hongce Zhang & Prof. Zhiyao Xie
 
-#     #   Courses included:
-#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - area: BEng in Electrical Engineering and Automation
-#     institution: NUAA
-#     date_start: 2017-09-01
-#     date_end: 2021-06-01
-#     summary: |
-#       - GPA: 4.0/5.0
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BEng in EE
+    institution: NUAA
+    date_start: 2017-09-01
+    date_end: 2021-06-01
+    summary: |
+      - GPA: 4.0/5.0
       
-#     #   Courses included:
-#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-# work:
-#   - position: Research Assistant
-#     company_name: HKUST(GZ)
-#     company_url: 'https://hkust-gz.edu.cn/'
-#     company_logo: 'hkust'
-#     date_start: 2021-12-12
-#     date_end: '2022-08-01'
-#     summary: |2-
-#       - Advisor: Prof. Hongce Zhang
-#       - Achieve an end-to-end unbounded formal verification framework for microprocessors
-#   - position: VLSI Physical Design Intern [[One Student One Chip Project](https://ysyx.oscc.cc)]
-#     company_name: Peng Cheng National Laboratory
-#     company_url: 'https://www.pcl.ac.cn/'
-#     company_logo: 'pcl'
-#     date_start: 2021-07-15
-#     date_end: 2021-12-10
-#     summary: |
-#       - Mentor: Dr. Biwei Xie
-#       - Complete an entire physical design process of an SoC
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Research Assistant
+    company_name: HKUST(GZ)
+    company_url: 'https://hkust-gz.edu.cn/'
+    company_logo: 'hkust'
+    date_start: 2021-12-12
+    date_end: '2022-08-01'
+    summary: |2-
+      - Advisor: Prof. Hongce Zhang
+      - Achieve an end-to-end unbounded formal verification framework for microprocessors
+  - position: VLSI Physical Design Intern (One Student One Chip Project)
+    company_name: Peng Cheng National Laboratory
+    company_url: 'https://www.pcl.ac.cn/'
+    company_logo: 'pcl'
+    date_start: 2021-07-15
+    date_end: 2021-12-10
+    summary: |
+      - Mentor: Dr. Biwei Xie
+      - Complete an entire physical design process of an SoC
 
 
 

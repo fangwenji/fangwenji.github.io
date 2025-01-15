@@ -81,7 +81,7 @@ sections:
   - block: markdown
     id: experience
     content:
-      title: 'Teaching'
+      title: 'Experience'
       subtitle: ''
       text: |-
         * TA of MICS6000H Logic Design Automation of Digital Systems, HKUST(GZ)

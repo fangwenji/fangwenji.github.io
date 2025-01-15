@@ -69,6 +69,7 @@ sections:
     content:
       title: Publications
       text: ""
+      count: 100
       filters:
         folders:
           - publication

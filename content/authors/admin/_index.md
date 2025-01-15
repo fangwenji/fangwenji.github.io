@@ -51,6 +51,25 @@ interests:
   - Circuit Quality Evaluation
   - Circuit Functional Verification
 
+work:
+  - position: Research Assistant
+    company_name: HKUST(GZ)
+    company_url: 'https://hkust-gz.edu.cn/'
+    company_logo: 'hkust'
+    date_start: 2021-12-12
+    date_end: '2022-08-01'
+    summary: |2-
+      - Advisor: Prof. Hongce Zhang
+      - Achieve an end-to-end unbounded formal verification framework for microprocessors
+  - position: VLSI Physical Design Intern (One Student One Chip Project)
+    company_name: Peng Cheng National Laboratory
+    company_url: 'https://www.pcl.ac.cn/'
+    company_logo: 'pcl'
+    date_start: 2021-07-15
+    date_end: 2021-12-10
+    summary: |
+      - Mentor: Dr. Biwei Xie
+      - Complete an entire physical design process of an SoC
 education:
   - area: PhD in ECE
     institution: HKUST
@@ -85,25 +104,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Research Assistant
-    company_name: HKUST(GZ)
-    company_url: 'https://hkust-gz.edu.cn/'
-    company_logo: 'hkust'
-    date_start: 2021-12-12
-    date_end: '2022-08-01'
-    summary: |2-
-      - Advisor: Prof. Hongce Zhang
-      - Achieve an end-to-end unbounded formal verification framework for microprocessors
-  - position: VLSI Physical Design Intern (One Student One Chip Project)
-    company_name: Peng Cheng National Laboratory
-    company_url: 'https://www.pcl.ac.cn/'
-    company_logo: 'pcl'
-    date_start: 2021-07-15
-    date_end: 2021-12-10
-    summary: |
-      - Mentor: Dr. Biwei Xie
-      - Complete an entire physical design process of an SoC
+
 
 
 
@@ -155,29 +156,27 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Research Assistant
-#     url: 
-#     date_start: '2021-12-12'
-#     date_end: '2022-08-01'
-#     awarder: HKUST(GZ)
-#     icon: hkust
-#     summary: |
-#       Responsibilities include:
-#       - Achieve an end-to-end unbounded formal verification framework for microprocessors
-#       - Employ symbolic simulation technique to model the microprocessor
-#       - Verify the functional correctness properties
-#       - Test the framework with multiple pipelined processor test cases
-#   - title: VLSI Physical Design Intern [("One Student One Chip" Project)](https://ysyx.oscc.cc/) 
-#     url: 
-#     date: '2021-07-15'
-#     awarder: Peng Cheng Laboratory
-#     icon: pcl
-#     summary: |
-#       Responsibilities include:
-#       - Complete an entire physical design process of an SoC
-#       - Participate in defining clock specification, design constriants  
-#       - Design a single-cycle RISC-V processor
+awards:
+  - title: Research Assistant
+    url: 
+    # date_start: '2021-12-12'
+    # date_end: '2022-08-01'
+    awarder: HKUST(GZ)
+    icon: hkust
+    summary: |
+      December 2021 – August 2022
+      - Advisor: Prof. Hongce Zhang
+      - Achieve an end-to-end unbounded formal verification framework for microprocessors
+  # - title: VLSI Physical Design Intern [("One Student One Chip" Project)](https://ysyx.oscc.cc/) 
+  #   url: 
+  #   date: '2021-07-15'
+  #   awarder: Peng Cheng Laboratory
+  #   icon: pcl
+  #   summary: |
+  #     Responsibilities include:
+  #     - Complete an entire physical design process of an SoC
+  #     - Participate in defining clock specification, design constriants  
+  #     - Design a single-cycle RISC-V processor
 
 ---
 

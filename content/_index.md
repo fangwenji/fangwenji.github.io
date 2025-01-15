@@ -78,15 +78,15 @@ sections:
     design:
       view: citation
 
-  - block: markdown
-    id: experience
-    content:
-      title: 'Experience'
-      subtitle: ''
-      text: |-
-        * TA of MICS6000H Logic Design Automation of Digital Systems, HKUST(GZ)
-    design:
-      columns: '1'
+  # - block: markdown
+  #  id: experience
+  #  content:
+  #    title: 'Experience'
+  #    subtitle: ''
+  #    text: |-
+  #      * TA of MICS6000H Logic Design Automation of Digital Systems, HKUST(GZ)
+  #  design:
+  #    columns: '1'
 
     # content:
     #   title: 'Experience'

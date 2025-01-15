@@ -78,32 +78,40 @@ sections:
     design:
       view: citation
 
-  - block: experience
+  - block: markdown
     id: experience
     content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many experience `items` below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Intern
-          company: Peng Cheng National Laboratory
-          company_url: ''
-          company_logo: pcl
-          location: Shenzhen
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+      title: 'Teaching'
+      subtitle: ''
+      text: |-
+        * TA of MICS6000H Logic Design Automation of Digital Systems, HKUST(GZ)
+    design:
+      columns: '1'
 
-              * Analysing
-              * Modelling
-              * Deploying
+    # content:
+    #   title: 'Experience'
+    #   # Date format for experience
+    #   #   Refer to https://wowchemy.com/docs/customization/#date-format
+    #   date_format: Jan 2006
+    #   # Experiences.
+    #   #   Add/remove as many experience `items` below as you like.
+    #   #   Required fields are `title`, `company`, and `date_start`.
+    #   #   Leave `date_end` empty if it's your current employer.
+    #   #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+    #   items:
+    #     - title: Intern
+    #       company: Peng Cheng National Laboratory
+    #       company_url: ''
+    #       company_logo: pcl
+    #       location: Shenzhen
+    #       date_start: '2021-01-01'
+    #       date_end: ''
+    #       description: |2-
+    #           Responsibilities include:
+
+    #           * Analysing
+    #           * Modelling
+    #           * Deploying
 
   - block: markdown
     id: awards

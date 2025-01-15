@@ -68,7 +68,7 @@ sections:
     id: publication
     content:
       title: Publications
-      class: author-notes>(*)</span>
+      class: author-notes
       text: ""
       count: 100
       filters:

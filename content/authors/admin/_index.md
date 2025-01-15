@@ -88,17 +88,17 @@ education:
 work:
   - position: Research Assistant
     company_name: HKUST(GZ)
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://hkust-gz.edu.cn/'
+    company_logo: 'hkust'
     date_start: 2021-12-12
     date_end: '2022-08-01'
     summary: |2-
       - Advisor: Prof. Hongce Zhang
       - Achieve an end-to-end unbounded formal verification framework for microprocessors
   - position: VLSI Physical Design Intern [[One Student One Chip Project](https://ysyx.oscc.cc)]
-    company_name: Peng Cheng Laboratory
-    company_url: ''
-    company_logo: ''
+    company_name: Peng Cheng National Laboratory
+    company_url: 'https://www.pcl.ac.cn/'
+    company_logo: 'pcl'
     date_start: 2021-07-15
     date_end: 2021-12-10
     summary: |

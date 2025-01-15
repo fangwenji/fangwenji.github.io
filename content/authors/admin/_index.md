@@ -183,5 +183,5 @@ interests:
 
 ## About Me
 
-Hi! I'm Wenji Fang (方闻绩), a Ph.D. student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology, advised by [Prof. Zhiyao Xie](https://zhiyaoxie.com). Previously, I received my M.Phil from the Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/) & [Prof. Zhiyao Xie](https://zhiyaoxie.com), and my B.Eng from Nanjing University of Aeronautics and Astronautics.
+Hi! I'm Wenji Fang (方闻绩), a Ph.D. student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology, advised by [Prof. Zhiyao Xie](https://zhiyaoxie.com). Previously, I received my M.Phil in microelectronics from the Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/) & [Prof. Zhiyao Xie](https://zhiyaoxie.com), and my B.Eng in electrical engineering from Nanjing University of Aeronautics and Astronautics.
 

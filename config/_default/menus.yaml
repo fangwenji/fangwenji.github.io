@@ -10,7 +10,7 @@ main:
   - name: Research
     url: /#overview
     weight: 20
-  - name: Publication
+  - name: Publications
     url: /#publication
     weight: 30
   - name: Experience

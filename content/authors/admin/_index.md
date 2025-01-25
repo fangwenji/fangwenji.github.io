@@ -156,17 +156,17 @@ education:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Research Assistant
-    url: 
-    # date_start: '2021-12-12'
-    # date_end: '2022-08-01'
-    awarder: HKUST(GZ)
-    icon: hkust
-    summary: |
-      December 2021 – August 2022
-      - Advisor: Prof. Hongce Zhang
-      - Achieve an end-to-end unbounded formal verification framework for microprocessors
+# awards:
+#   - title: Research Assistant
+#     url: 
+#     # date_start: '2021-12-12'
+#     # date_end: '2022-08-01'
+#     awarder: HKUST(GZ)
+#     icon: hkust
+#     summary: |
+#       December 2021 – August 2022
+#       - Advisor: Prof. Hongce Zhang
+#       - Achieve an end-to-end unbounded formal verification framework for microprocessors
   # - title: VLSI Physical Design Intern [("One Student One Chip" Project)](https://ysyx.oscc.cc/) 
   #   url: 
   #   date: '2021-07-15'

@@ -149,7 +149,6 @@ sections:
       title: 'Pub'
       subtitle: ''
       text: |-
-
         * [c10] aaa
         * [c9] bbb
     design:

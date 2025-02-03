@@ -28,6 +28,6 @@ main:
   - name: Teaching
     url: /#teaching
     weight: 60
-  - name: Pub
-    url: /#pub
-    weight: 70
+  # - name: Pub
+  #   url: /#pub
+  #   weight: 70

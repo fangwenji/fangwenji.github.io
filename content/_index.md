@@ -129,6 +129,7 @@ sections:
         * Full Postgraduate Studentship of HKUST(GZ), 2022-2024
         * Infineon Technology Scholarship, 2020
         * First Class Scholarship of NUAA, 2017-2021
+        * TA of MICS6000H Logic Design Automation of Digital Systems, HKUST(GZ)
     design:
       columns: '1'
       css_class: light
@@ -141,10 +142,20 @@ sections:
       subtitle: ''
       text: |-
         <div style="width: 80%; margin: 0 auto;">
-        * TA of MICS6000H Logic Design Automation of Digital Systems, HKUST(GZ)
-        * [1] aaa
-        * [2] bbb
+        ### Teaching
+
+        #### Graduate Teaching Assistant
+        * **CS 6210: Advanced Operating Systems**, Georgia Institute of Technology *(Jan 2024 - Present)*
+        * **ECE 6122: Advanced Programming Techniques**, Georgia Institute of Technology *(Aug 2023 - Dec 2023)*
+
+        #### Teaching Assistant
+        * **ENGR 131: Engineering Computer Programming**, Case Western Reserve University *(Jan 2022 - May 2023)*
+        * **ENGR 132: Engineering Computer Programming**, Case Western Reserve University *(Aug 2022 - Dec 2022)*
+        * **EECS 281: Data Structures and Algorithms**, Case Western Reserve University *(Aug 2021 - Dec 2021)*
         </div>
+        
+        
+        
     design:
       columns: '1'
   # - block: markdown

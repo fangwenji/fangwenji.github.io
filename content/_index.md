@@ -140,9 +140,11 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
+        <div style="width: 80%; margin: 0 auto;">
         * TA of MICS6000H Logic Design Automation of Digital Systems, HKUST(GZ)
         * [1] aaa
         * [2] bbb
+        </div>
     design:
       columns: '1'
   # - block: markdown

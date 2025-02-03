@@ -143,6 +143,18 @@ sections:
         * TA of MICS6000H Logic Design Automation of Digital Systems, HKUST(GZ)
     design:
       columns: '1'
+  - block: markdown
+    id: pub
+    content:
+      title: 'Pub'
+      subtitle: ''
+      text: |-
+
+        * [c10] aaa
+        * [c9] bbb
+    design:
+      columns: '1'
+
   # - block: collection
   #   id: talks
   #   content:

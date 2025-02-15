@@ -33,13 +33,17 @@ sections:
   - block: markdown
     id: overview
     content:
-      title: 'Research Overview'
+      title: 'Featured Research Overview'
       subtitle: ''
       text: |-
+        Research directions with first-authored publications
         #### <mark>Circuit Foundation Model</mark>
-          - Large Circuit Model [[SCIS'24](https://link.springer.com/journal/11432)]
-          - RTL-netlist encoder alignment [ASPDAC'25]
+          - Multimodal Netlist encoder [DAC'25]
           - Multimodal RTL encoder [ICLR'25]
+          - RTL-netlist encoder alignment [ASPDAC'25]
+          - Large Circuit Model [[SCIS'24](https://link.springer.com/journal/11432)]
+          
+          
 
         #### <mark>VLSI Design Quality Evaluation</mark>
           - RTL-stage fine-grained timing slack prediction [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)]

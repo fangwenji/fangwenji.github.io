@@ -123,13 +123,13 @@ sections:
       subtitle: ''
       text: |-
         * **Research Assistanc, HKUST(GZ)**
-          - Dec 2021 - July 2022
           - Mentor: [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/)
           - Developed an symbolic simulator for CPU formal verification
+          - Dec 2021 - July 2022
         * **VLSI Physical Design Intern, Peng Cheng Lab**
-          - July 2021 - Dec 2021
           - Mentor: [Dr. Biwei Xie](https://cn.linkedin.com/in/biwei-xie-90846236?trk=people-guest_people_search-card) & [Prof. Yungang Bao](https://acs.ict.ac.cn/baoyg/)
           - Completed the entire RTL-to-GDSII flow of a SoC
+          - July 2021 - Dec 2021
         
     design:
       columns: '1'
@@ -152,19 +152,21 @@ sections:
         * Infineon Technology Scholarship, 2020
         * First Class Scholarship of NUAA, 2017-2021
         
-    design:
-      columns: '1'
-      css_class: light
-      background:
-        color: '#F7F7F7'
+    
   - block: markdown
     id: teaching
     content:
       title: 'Teaching'
       subtitle: ''
       text: |-
-        * TA of MICS6000H Logic Design Automation of Digital Systems, HKUST(GZ)
+        * TA of Electronic Design Automation for VLSI Design, HKUST
+        * TA of Logic Design Automation of Digital Systems, HKUST(GZ)
         
+    design:
+      columns: '1'
+      css_class: light
+      background:
+        color: '#F7F7F7'  
         
     design:
       columns: '1'

@@ -37,20 +37,20 @@ sections:
       subtitle: ''
       text: |-
         #### <mark>Circuit Foundation Model</mark>
-          - Multimodal Netlist encoder [DAC'25]
+          - Multimodal netlist encoder [DAC'25]
           - Multimodal RTL encoder [ICLR'25]
           - RTL-netlist encoder alignment [ASPDAC'25]
           - Large Circuit Model [[SCIS'24](https://link.springer.com/journal/11432)]
           
           
 
-        #### <mark>VLSI Design Quality Evaluation</mark>
+        #### <mark>Circuit Design Quality Evaluation</mark>
           - RTL-stage fine-grained timing slack prediction [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)]
           - RTL-stage overall PPA prediction [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)]
         
         #### <mark>Hardware Formal Verification</mark>
           - LLM-aided assertion generation [[ASPDAC'25]](https://arxiv.org/abs/2402.00386)&[[ICCAD'24]](https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf)
-          - CPU Symbolic simulation [[TACAS'23](https://link.springer.com/chapter/10.1007/978-3-031-30820-8_2)]&[[TCAD'23](https://ieeexplore.ieee.org/abstract/document/10178019/)]
+          - CPU symbolic simulation [[TACAS'23](https://link.springer.com/chapter/10.1007/978-3-031-30820-8_2)]&[[TCAD'23](https://ieeexplore.ieee.org/abstract/document/10178019/)]
 
     design:
       columns: '1'
@@ -116,7 +116,21 @@ sections:
     #           * Analysing
     #           * Modelling
     #           * Deploying
-
+  - block: markdown
+    id: experience
+    content:
+      title: 'Experience'
+      subtitle: ''
+      text: |-
+        * VLSI Physical Design Intern, Peng Cheng Lab, July 2021 - Dec 2021
+          - Mentor: Dr. Biwei Xie & Prof. Yungang Bao
+          - Completed the entire RTL-to-GDSII flow of a SoC (taped-out)
+        
+    design:
+      columns: '1'
+      css_class: light
+      background:
+        color: '#F7F7F7'
   - block: markdown
     id: awards
     content:

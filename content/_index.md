@@ -151,7 +151,8 @@ sections:
         * Full Postgraduate Studentship of HKUST(GZ), 2022-2024
         * Infineon Technology Scholarship, 2020
         * First Class Scholarship of NUAA, 2017-2021
-        
+    design:
+      columns: '1'
     
   - block: markdown
     id: teaching
@@ -168,8 +169,8 @@ sections:
       background:
         color: '#F7F7F7'  
         
-    design:
-      columns: '1'
+    # design:
+    #   columns: '1'
   # - block: markdown
   #   id: pub
   #   content:

@@ -36,7 +36,6 @@ sections:
       title: 'Featured Research Overview'
       subtitle: ''
       text: |-
-        Research directions with first-authored publications
         #### <mark>Circuit Foundation Model</mark>
           - Multimodal Netlist encoder [DAC'25]
           - Multimodal RTL encoder [ICLR'25]

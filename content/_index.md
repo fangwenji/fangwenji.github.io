@@ -124,7 +124,7 @@ sections:
       text: |-
         * **Research Assistanc, HKUST(GZ)**, Dec 2021 - July 2022
           - Mentor: Prof. Hongce Zhang
-          - Developed an unbounded formal verification framework for CPUs
+          - Developed an symbolic simulator for CPU formal verification
         * **VLSI Physical Design Intern, Peng Cheng Lab**, July 2021 - Dec 2021
           - Mentor: Dr. Biwei Xie & Prof. Yungang Bao
           - Completed the entire RTL-to-GDSII flow of a SoC

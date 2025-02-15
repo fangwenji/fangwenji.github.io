@@ -27,7 +27,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In Design Automation Conference
-publication_short: In DAC
+publication_short: In <mark>**DAC**</mark>
 
 abstract: 
 

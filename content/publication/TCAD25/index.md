@@ -31,7 +31,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 
-publication_short: In TCAD
+publication_short: In <mark>**TCAD**</mark>
 
 abstract: 
 

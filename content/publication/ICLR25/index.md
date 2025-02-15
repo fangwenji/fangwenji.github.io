@@ -27,7 +27,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In International Conference on Learning Representations (ICLR)
-publication_short: In ICLR
+publication_short: In <mark>ICLR</mark>
 
 abstract: 
 

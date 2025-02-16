@@ -73,7 +73,7 @@ sections:
     content:
       title: Publications
       class: author-notes
-      text: ""
+      text: "test test"
       count: 100
       filters:
         folders:

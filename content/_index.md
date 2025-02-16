@@ -42,8 +42,6 @@ sections:
           - RTL-netlist encoder alignment [ASPDAC'25]
           - Large Circuit Model [[SCIS'24](https://link.springer.com/journal/11432)]
           
-          
-
         #### <mark>Circuit Design Quality Evaluation & Optimization</mark>
           - RTL-stage fine-grained timing slack prediction [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)]
           - RTL-stage overall PPA prediction [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)]

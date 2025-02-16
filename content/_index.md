@@ -122,7 +122,7 @@ sections:
       title: 'Experience'
       subtitle: ''
       text: |-
-        * **Research Assistanc, HKUST(GZ)**
+        * **Research Assistant, HKUST(GZ)**
           - Mentor: [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/)
           - Developed an symbolic simulator for CPU formal verification
           - Dec 2021 - July 2022

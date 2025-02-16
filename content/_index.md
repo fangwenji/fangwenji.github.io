@@ -73,7 +73,7 @@ sections:
     content:
       title: Publications
       class: author-notes
-      text: "(Co-)First-authored publications are <mark>highlighted</mark>"
+      text: "(Co-)First-authored publications are <mark>highlighted</mark>."
       count: 100
       filters:
         folders:

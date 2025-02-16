@@ -128,7 +128,7 @@ sections:
           - Dec 2021 - July 2022
         * **VLSI Physical Design Intern, Peng Cheng Lab**
           - Mentor: [Dr. Biwei Xie](https://cn.linkedin.com/in/biwei-xie-90846236?trk=people-guest_people_search-card) & [Prof. Yungang Bao](https://acs.ict.ac.cn/baoyg/)
-          - Completed the entire RTL-to-GDSII flow of a SoC
+          - Completed the entire RTL-to-GDSII flow of an SoC
           - July 2021 - Dec 2021
         
     design:

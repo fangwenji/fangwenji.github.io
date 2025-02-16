@@ -63,7 +63,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Science China Information Sciences 
-publication_short: In SCIS
+publication_short: In **SCIS**
 
 abstract: 
 

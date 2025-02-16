@@ -30,7 +30,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In PhotoniX
-publication_short: In PhotoniX
+publication_short: In **PhotoniX**
 
 abstract: 
 

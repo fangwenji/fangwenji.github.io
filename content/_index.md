@@ -120,11 +120,11 @@ sections:
       title: 'Experience'
       subtitle: ''
       text: |-
-        * **Research Assistant, HKUST(GZ)**
+        * **Research Assistant, [HKUST(GZ)](https://www.hkust-gz.edu.cn/)**
           - Mentor: [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/)
           - Developed an symbolic simulator for CPU formal verification
           - Dec 2021 - July 2022
-        * **VLSI Physical Design Intern, Peng Cheng Lab**
+        * **VLSI Physical Design Intern, [Peng Cheng Laboratory](https://www.pcl.ac.cn/)**
           - Mentor: [Dr. Biwei Xie](https://cn.linkedin.com/in/biwei-xie-90846236?trk=people-guest_people_search-card) & [Prof. Yungang Bao](https://acs.ict.ac.cn/baoyg/)
           - Completed the entire RTL-to-GDSII flow of an SoC
           - July 2021 - Dec 2021

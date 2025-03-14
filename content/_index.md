@@ -141,6 +141,7 @@ sections:
       title: 'Awards'
       subtitle: ''
       text: |-
+        * IEEE CEDA Student Travel Grant, 2025
         * DAC Young Fellow, 2024
         * ISLAD Best Paper Nomination, 2024
         * ISLAD Travel Grant, 2024

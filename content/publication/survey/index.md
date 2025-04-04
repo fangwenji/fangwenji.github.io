@@ -1,29 +1,26 @@
 ---
-title: "AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs"
+title: "A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zhiyuan Yan #
-- admin # 
-- Mengming Li
-- Min Li
+- admin
+- Jing Wang
+- Yao Lu
 - Shang Liu
+- Yuchao Wu
+- Yuzhe Ma
 - Zhiyao Xie
-- Hongce Zhang
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
 
 # Author notes (optional)
 
-date: "2025-01-15T00:00:00Z"
+date: "2025-03-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-15T00:00:00Z"
+publishDate: "2025-03-29T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,8 +29,8 @@ publishDate: "2025-01-15T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In Asia and South Pacific Design Automation Conference (ASP-DAC)
-publication_short: In <mark>**ASP-DAC**</mark>
+publication: 
+publication_short: 
 
 abstract: 
 
@@ -50,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3658617.3697756'
+url_pdf: 'https://zhiyaoxie.com/files/preprint25_CFM.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://zhiyaoxie.com/files/preprint25_CFM.pdf'
+url_pdf: 'https://arxiv.org/abs/2504.03711'
 url_code: ''
 url_dataset: ''
 url_poster: ''

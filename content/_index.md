@@ -37,7 +37,7 @@ sections:
       subtitle: ''
       text: |-
         #### <mark>Circuit Foundation Model</mark>
-          - Survey on Circuit Foundation Models [[Paper](https://zhiyaoxie.com/files/preprint25_CFM.pdf)]
+          - Survey on Circuit Foundation Models [[Paper](https://arxiv.org/abs/2504.03711)]
           - Multimodal netlist encoder [DAC'25]
           - Multimodal RTL encoder [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)]
           - RTL-netlist encoder alignment [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)]

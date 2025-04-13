@@ -143,7 +143,7 @@ sections:
       subtitle: ''
       text: |-
         * IEEE CEDA Student Travel Grant, 2025
-        * DAC Young Fellow, 2024
+        * DAC Young Fellow, 2024, 2025
         * ISLAD Best Paper Nomination, 2024
         * ISLAD Travel Grant, 2024
         * Full Postgraduate Studentship of HKUST, 2024-Now

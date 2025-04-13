@@ -1,26 +1,23 @@
 ---
-title: "Profile-Guided Temporal Prefetching"
+title: "SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Mengming Li
-- Qijun Zhang
-- Yichuan Gao
 - admin
-- Yao Lu
-- Yongqing Ren
+- Qijun Zhang
 - Zhiyao Xie
 
 
 # Author notes (optional)
 
-date: "2025-01-20T00:00:00Z"
+date: "2025-01-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-20T00:00:00Z"
+publishDate: "2025-01-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +26,8 @@ publishDate: "2025-01-20T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In International Symposium on Computer Architecture
-publication_short: In ISCA
+publication: In International Symposium of EDA
+publication_short: In ISEDA
 
 abstract: 
 
@@ -47,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2401.13266'
 url_code: ''
 url_dataset: ''
 url_poster: ''

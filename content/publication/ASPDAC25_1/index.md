@@ -45,11 +45,11 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3658617.3697597'
-url_code: ''
+url_code: 'https://github.com/hkust-zhiyao/CircuitEncoder'
 url_dataset: ''
 url_poster: ''
-url_project: 'https://github.com/hkust-zhiyao/CircuitEncoder'
-url_slides: uploads/resume.pdf
+url_project: ''
+url_slides: uploads/CircuitEncoder_slides.pdf
 url_source: ''
 url_video: ''
 

@@ -48,8 +48,8 @@ url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3658617.3697597'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
-url_slides: ''
+url_project: 'https://github.com/hkust-zhiyao/CircuitEncoder'
+url_slides: uploads/resume.pdf
 url_source: ''
 url_video: ''
 

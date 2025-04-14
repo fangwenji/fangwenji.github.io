@@ -44,12 +44,12 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://openreview.net/forum?id=rbnf7oe6JQ'
+url_code: 'https://github.com/hkust-zhiyao/CircuitFusion'
 url_dataset: ''
-url_poster: ''
+url_poster: uploads/CircuitFusion_poster.pdf
 url_project: ''
-url_slides: ''
+url_slides: uploads/CircuitFusion_slides.pdf
 url_source: ''
 url_video: ''
 

@@ -47,9 +47,9 @@ featured: false
 url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3649329.3655671'
 url_code: 'https://github.com/hkust-zhiyao/RTL-Timer'
 url_dataset: ''
-url_poster: ''
+url_poster: uploads/RTLTimer_poster.pdf
 url_project: ''
-url_slides: ''
+url_slides: uploads/RTLTimer_slides.pdf
 url_source: ''
 url_video: ''
 

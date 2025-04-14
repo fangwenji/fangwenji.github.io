@@ -49,7 +49,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10577671'
-url_code: ''
+url_code: 'https://github.com/hkust-zhiyao/MasterRTL'
 url_dataset: ''
 url_poster: ''
 url_project: ''

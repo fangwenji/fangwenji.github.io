@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2504.09260'
 url_code: 'https://github.com/hkust-zhiyao/NetTAG'
 url_dataset: ''
 url_poster: ''

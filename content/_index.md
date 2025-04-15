@@ -38,9 +38,10 @@ sections:
       text: |-
         #### <mark>Circuit Foundation Model</mark>
           - Survey on Circuit Foundation Models [[Paper](https://arxiv.org/abs/2504.03711)]
-          - Multimodal netlist encoder [DAC'25]
+          - Cross-modal encoder-decoder alignment [[Paper](https://arxiv.org/abs/2504.09485)]
+          - Multimodal netlist encoder [[DAC'25](https://arxiv.org/abs/2504.09260)]
           - Multimodal RTL encoder [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)]
-          - RTL-netlist encoder alignment [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)]
+          - Cross-stage RTL-netlist encoder alignment [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)]
           - Large Circuit Model [[SCIS'24](https://link.springer.com/journal/11432)]
           
         #### <mark>Circuit Design Quality Evaluation & Optimization</mark>

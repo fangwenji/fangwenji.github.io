@@ -37,7 +37,7 @@ sections:
       subtitle: ''
       text: |-
         #### <mark>Circuit Foundation Model</mark>
-          - Survey on Circuit Foundation Models [[Paper](https://arxiv.org/abs/2504.03711)]
+          - Survey on Circuit Foundation Models (GenEDA[[Paper](https://arxiv.org/abs/2504.03711)])
           - Cross-modal encoder-decoder alignment [[Paper](https://arxiv.org/abs/2504.09485)]
           - Multimodal netlist encoder [[DAC'25](https://arxiv.org/abs/2504.09260)]
           - Multimodal RTL encoder [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)]

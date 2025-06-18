@@ -122,15 +122,15 @@ sections:
       title: 'Experience'
       subtitle: ''
       text: |-
-        * **Research Intern, [NVIDIA](https://research.nvidia.com/labs/electronic-design-automation/)**
+        * **Research Intern @ [NVIDIA](https://research.nvidia.com/labs/electronic-design-automation/)**
           - Manager: [Dr. Mark Ren](https://research.nvidia.com/person/haoxing-mark-ren)
           - Mentor: [Dr. Rongjian Liang](https://research.nvidia.com/person/rongjian-liang)
           - June 2021 - present
-        * **Research Assistant, [HKUST(GZ)](https://www.hkust-gz.edu.cn/)**
+        * **Research Assistant @ [HKUST(GZ)](https://www.hkust-gz.edu.cn/)**
           - Mentor: [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/)
           - Developed an symbolic simulator for CPU formal verification
           - Dec 2021 - July 2022
-        * **VLSI Physical Design Intern, [Peng Cheng Laboratory](https://www.pcl.ac.cn/)**
+        * **VLSI Physical Design Intern @ [Peng Cheng Laboratory](https://www.pcl.ac.cn/)**
           - Mentor: [Dr. Biwei Xie](https://cn.linkedin.com/in/biwei-xie-90846236?trk=people-guest_people_search-card) & [Prof. Yungang Bao](http://english.ict.cas.cn/people/scien/bln/202303/t20230321_328543.html)
           - "One Student One Chip" Project
           - Completed the entire RTL-to-GDSII flow of an SoC

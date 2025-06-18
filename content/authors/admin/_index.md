@@ -52,6 +52,15 @@ interests:
   - Circuit Functional Verification
 
 work:
+  - position: Research Interm
+    company_name: NVIDIA
+    company_url: 'https://hkust-gz.edu.cn/'
+    company_logo: 'nvidia'
+    date_start: 2025-06-03
+    date_end: '2025-09-01'
+    summary: |2-
+      - Manager: Dr. Mark Ren
+      - Mentor: Dr. Rongjian Liang
   - position: Research Assistant
     company_name: HKUST(GZ)
     company_url: 'https://hkust-gz.edu.cn/'
@@ -68,7 +77,7 @@ work:
     date_start: 2021-07-15
     date_end: 2021-12-10
     summary: |
-      - Mentor: Dr. Biwei Xie
+      - Mentor: Dr. Biwei Xie, Prof. Yungang Bao
       - Complete an entire physical design process of an SoC
 education:
   - area: PhD in ECE

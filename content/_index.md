@@ -125,7 +125,7 @@ sections:
         * **Research Intern @ [NVIDIA](https://research.nvidia.com/labs/electronic-design-automation/)**
           - Manager: [Dr. Mark Ren](https://research.nvidia.com/person/haoxing-mark-ren)
           - Mentor: [Dr. Rongjian Liang](https://research.nvidia.com/person/rongjian-liang)
-          - June 2021 - present
+          - June 2025 - present
         * **Research Assistant @ [HKUST(GZ)](https://www.hkust-gz.edu.cn/)**
           - Mentor: [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/)
           - Developed an symbolic simulator for CPU formal verification

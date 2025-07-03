@@ -49,9 +49,9 @@ featured: false
 url_pdf: 'https://arxiv.org/abs/2504.09260'
 url_code: 'https://github.com/hkust-zhiyao/NetTAG'
 url_dataset: ''
-url_poster: ''
+url_poster: uploads/NetTAG_poster.pdf
 url_project: ''
-url_slides: ''
+url_slides: uploads/NetTAG_slides.pdf
 url_source: ''
 url_video: ''
 

@@ -147,6 +147,7 @@ sections:
       title: 'Awards'
       subtitle: ''
       text: |-
+        * IEEE CASS Student Travel Grant, 2025
         * IEEE CEDA Student Travel Grant, 2025
         * DAC Young Fellow, 2024, 2025
         * ISLAD Best Paper Nomination, 2024
@@ -166,6 +167,7 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
+        * TA of Introduction to Computer Organization and Design, HKUST
         * TA of Electronic Design Automation for VLSI Design, HKUST
         * TA of Logic Design Automation of Digital Systems, HKUST(GZ)
         

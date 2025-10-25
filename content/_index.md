@@ -147,13 +147,13 @@ sections:
       title: 'Awards'
       subtitle: ''
       text: |-
+        * ICCAD Student Scholar Program Grant, 2023, 2025
         * IEEE CASS Student Travel Grant, 2025
         * IEEE CEDA Student Travel Grant, 2025
         * DAC Young Fellow, 2024, 2025
         * ISLAD Best Paper Nomination, 2024
         * ISLAD Travel Grant, 2024
         * Full Postgraduate Studentship of HKUST, 2024-Now
-        * ICCAD Student Scholar Program Grant, 2023
         * 3rd Place Award of [EDAthon Contest](https://sites.google.com/view/ceda-hk/edathon-2023), 2023
         * Full Postgraduate Studentship of HKUST(GZ), 2022-2024
         * Infineon Technology Scholarship, 2020

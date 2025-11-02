@@ -147,6 +147,7 @@ sections:
       title: 'Awards'
       subtitle: ''
       text: |-
+        * 2nd Place Award of ACM SIGDA Student Research Competition (SRC), ICCAD, 2025
         * ICCAD Student Scholar Program Grant, 2023, 2025
         * IEEE CASS Student Travel Grant, 2025
         * IEEE CEDA Student Travel Grant, 2025

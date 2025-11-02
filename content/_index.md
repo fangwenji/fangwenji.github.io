@@ -131,7 +131,7 @@ sections:
           - Developed an symbolic simulator for CPU formal verification
           - Dec 2021 - July 2022
         * **VLSI Physical Design Intern @ [Peng Cheng Laboratory](https://www.pcl.ac.cn/)**
-          - Mentor: [Dr. Biwei Xie](https://cn.linkedin.com/in/biwei-xie-90846236?trk=people-guest_people_search-card) & [Prof. Yungang Bao](http://english.ict.cas.cn/people/scien/bln/202303/t20230321_328543.html)
+          - Mentor: [Prof. Biwei Xie](https://cn.linkedin.com/in/biwei-xie-90846236?trk=people-guest_people_search-card) & [Prof. Yungang Bao](http://english.ict.cas.cn/people/scien/bln/202303/t20230321_328543.html)
           - "One Student One Chip" Project
           - Completed the entire RTL-to-GDSII flow of an SoC
           - July 2021 - Dec 2021

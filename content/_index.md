@@ -127,7 +127,7 @@ sections:
           - Mentor: [Dr. Rongjian Liang](https://research.nvidia.com/person/rongjian-liang)
           - June 2025 - present
         * **Research Assistant @ [HKUST(GZ)](https://www.hkust-gz.edu.cn/)**
-          - Mentor: [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/)
+          - Advisor: [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/)
           - Developed an symbolic simulator for CPU formal verification
           - Dec 2021 - July 2022
         * **VLSI Physical Design Intern @ [Peng Cheng Laboratory](https://www.pcl.ac.cn/)**

@@ -52,7 +52,7 @@ interests:
   - Circuit Functional Verification
 
 work:
-  - position: Research Interm
+  - position: Research Intern
     company_name: NVIDIA
     company_url: 'https://hkust-gz.edu.cn/'
     company_logo: 'nvidia'

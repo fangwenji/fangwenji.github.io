@@ -125,7 +125,7 @@ sections:
         * **Research Intern @ [NVIDIA](https://research.nvidia.com/labs/electronic-design-automation/)**
           - Manager: [Dr. Mark Ren](https://research.nvidia.com/person/haoxing-mark-ren)
           - Mentor: [Dr. Rongjian Liang](https://research.nvidia.com/person/rongjian-liang)
-          - June 2025 - present
+          - June 2025 - Dec 2025
         * **Research Assistant @ [HKUST(GZ)](https://www.hkust-gz.edu.cn/)**
           - Advisor: [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/)
           - Developed an symbolic simulator for CPU formal verification
@@ -147,7 +147,7 @@ sections:
       title: 'Awards'
       subtitle: ''
       text: |-
-        * Inaugural [LAD Fellowship](https://iclad.ai/lad-fellowship)
+        * Inaugural [LAD Fellowship](https://iclad.ai/lad-fellowship), 2025
         * 2nd Place Award of ACM SIGDA Student Research Competition (SRC), ICCAD, 2025
         * ICCAD Student Scholar Program Grant, 2023, 2025
         * IEEE CASS Student Travel Grant, 2025

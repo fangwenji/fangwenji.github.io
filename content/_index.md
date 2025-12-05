@@ -162,6 +162,22 @@ sections:
         * First Class Scholarship of NUAA, 2017-2021
     design:
       columns: '1'
+
+  - block: markdown
+    id: service
+    content:
+      title: 'Service'
+      subtitle: 'Journal Reviewer'
+      text: |-
+        * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+        * ACM Transactions on Design Automation of Electronic Systems (TODAES)
+        * IEEE Transactions on Circuits and Systems Part II: Express Briefs (TCAS-II)
+        
+    design:
+      columns: '1'
+      css_class: light
+      background:
+        color: '#F7F7F7'  
     
   - block: markdown
     id: teaching

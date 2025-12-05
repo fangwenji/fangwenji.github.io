@@ -172,7 +172,7 @@ sections:
         * **Advancing AI for EDA: from Supervised Learning to Circuit Foundation Models**
           - ACM SIGDA Student Research Competition (SRC) @ ICCAD, 2025
           - Institute of Microelectronics of the Chinese Academy of Science, 2025
-        * **RTL PPA Prediction for Early Optimization**
+        * **RTL-Stage PPA Prediction for Early Optimization**
           - Synopsys, 2025
           - Southeast University, 2025
         * **Towards Automatic and Scalable Hardware Formal Verification**
@@ -190,7 +190,7 @@ sections:
       title: 'Services'
       subtitle: ''
       text: |-
-        * ### **Journal Reviewer**
+        * **Journal Reviewer**
           * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)
           * ACM Transactions on Design Automation of Electronic Systems (**TODAES**)
           * IEEE Transactions on Circuits and Systems Part II: Express Briefs (**TCAS-II**)

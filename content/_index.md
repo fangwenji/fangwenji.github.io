@@ -164,21 +164,45 @@ sections:
       columns: '1'
 
   - block: markdown
-    id: service
+    id: talks
     content:
-      title: 'Service'
+      title: 'Talks'
       subtitle: ''
       text: |-
-        * **Journal Reviewer**
-          * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)
-          * ACM Transactions on Design Automation of Electronic Systems (**TODAES**)
-          * IEEE Transactions on Circuits and Systems Part II: Express Briefs (**TCAS-II**)
-        
+        * Inaugural [LAD Fellowship](https://iclad.ai/lad-fellowship), 2025
+        * 2nd Place Award of ACM SIGDA Student Research Competition (SRC), ICCAD, 2025
+        * ICCAD Student Scholar Program Grant, 2023, 2025
+        * IEEE CASS Student Travel Grant, 2025
+        * IEEE CEDA Student Travel Grant, 2025
+        * DAC Young Fellow, 2024, 2025
+        * ISLAD Best Paper Nomination, 2024
+        * ISLAD Travel Grant, 2024
+        * Full Postgraduate Studentship of HKUST, 2024-Now
+        * 3rd Place Award of [EDAthon Contest](https://sites.google.com/view/ceda-hk/edathon-2023), 2023
+        * Full Postgraduate Studentship of HKUST(GZ), 2022-2024
+        * Infineon Technology Scholarship, 2020
+        * First Class Scholarship of NUAA, 2017-2021
     design:
       columns: '1'
       css_class: light
       background:
         color: '#F7F7F7'  
+
+  - block: markdown
+    id: service
+    content:
+      title: 'Services'
+      subtitle: ''
+      text: |-
+        * # **Journal Reviewer**
+          * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)
+          * ACM Transactions on Design Automation of Electronic Systems (**TODAES**)
+          * IEEE Transactions on Circuits and Systems Part II: Express Briefs (**TCAS-II**)
+          
+        
+    design:
+      columns: '1'
+      
     
   - block: markdown
     id: teaching

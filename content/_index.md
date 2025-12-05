@@ -169,8 +169,8 @@ sections:
       title: 'Service'
       subtitle: ''
       text: |-
-        * Journal Reviewer
-          * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+        * **Journal Reviewer**
+          * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)
           * ACM Transactions on Design Automation of Electronic Systems (TODAES)
           * IEEE Transactions on Circuits and Systems Part II: Express Briefs (TCAS-II)
         

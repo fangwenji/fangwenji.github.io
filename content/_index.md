@@ -169,19 +169,15 @@ sections:
       title: 'Talks'
       subtitle: ''
       text: |-
-        * Inaugural [LAD Fellowship](https://iclad.ai/lad-fellowship), 2025
-        * 2nd Place Award of ACM SIGDA Student Research Competition (SRC), ICCAD, 2025
-        * ICCAD Student Scholar Program Grant, 2023, 2025
-        * IEEE CASS Student Travel Grant, 2025
-        * IEEE CEDA Student Travel Grant, 2025
-        * DAC Young Fellow, 2024, 2025
-        * ISLAD Best Paper Nomination, 2024
-        * ISLAD Travel Grant, 2024
-        * Full Postgraduate Studentship of HKUST, 2024-Now
-        * 3rd Place Award of [EDAthon Contest](https://sites.google.com/view/ceda-hk/edathon-2023), 2023
-        * Full Postgraduate Studentship of HKUST(GZ), 2022-2024
-        * Infineon Technology Scholarship, 2020
-        * First Class Scholarship of NUAA, 2017-2021
+        * Advancing AI for EDA: from Supervised Learning to Circuit Foundation Models
+          - ACM SIGDA Student Research Competition (SRC) @ ICCAD, 2025
+          - Institute of Microelectronics of the Chinese Academy of Science, 2025
+        * RTL PPA Prediction for Early Optimization
+          - Synopsys, 2025
+          - Southeast University, 2025
+        * Towards Automatic and Scalable Hardware Formal Verification
+          - Intel, 2024
+          - MPhil thesis defence, 2024
     design:
       columns: '1'
       css_class: light

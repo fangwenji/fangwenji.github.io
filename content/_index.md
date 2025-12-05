@@ -167,11 +167,12 @@ sections:
     id: service
     content:
       title: 'Service'
-      subtitle: 'Journal Reviewer'
+      subtitle: ''
       text: |-
-        * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-        * ACM Transactions on Design Automation of Electronic Systems (TODAES)
-        * IEEE Transactions on Circuits and Systems Part II: Express Briefs (TCAS-II)
+        * Journal Reviewer
+          * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+          * ACM Transactions on Design Automation of Electronic Systems (TODAES)
+          * IEEE Transactions on Circuits and Systems Part II: Express Briefs (TCAS-II)
         
     design:
       columns: '1'

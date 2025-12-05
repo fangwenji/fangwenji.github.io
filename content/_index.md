@@ -191,9 +191,9 @@ sections:
       subtitle: ''
       text: |-
         * **Journal Reviewer**
-          * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)
-          * ACM Transactions on Design Automation of Electronic Systems (**TODAES**)
-          * IEEE Transactions on Circuits and Systems Part II: Express Briefs (**TCAS-II**)
+          - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)
+          - ACM Transactions on Design Automation of Electronic Systems (**TODAES**)
+          - IEEE Transactions on Circuits and Systems Part II: Express Briefs (**TCAS-II**)
           
         
     design:
@@ -206,9 +206,10 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
-        * TA of Introduction to Computer Organization and Design, HKUST
-        * TA of Electronic Design Automation for VLSI Design, HKUST
-        * TA of Logic Design Automation of Digital Systems, HKUST(GZ)
+        * **Teaching Assistant**
+          - Introduction to Computer Organization and Design, HKUST
+          - Electronic Design Automation for VLSI Design, HKUST
+          - Logic Design Automation of Digital Systems, HKUST(GZ)
         
     design:
       columns: '1'

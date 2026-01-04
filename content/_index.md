@@ -147,7 +147,7 @@ sections:
       title: 'Awards'
       subtitle: ''
       text: |-
-        * Inaugural [LAD Fellowship](https://iclad.ai/lad-fellowship), 2025
+        * Inaugural [LAD Fellowship](https://iclad.ai/lad25-fellows), 2025
         * 2nd Place Award of ACM SIGDA Student Research Competition (SRC), ICCAD, 2025
         * ICCAD Student Scholar Program Grant, 2023, 2025
         * IEEE CASS Student Travel Grant, 2025

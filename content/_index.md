@@ -33,7 +33,7 @@ sections:
   - block: markdown
     id: overview
     content:
-      title: 'Featured Research Overview [(Poster)](uploads/SRC_poster.pdf)'
+      title: 'Research Hightlight [(Poster)](uploads/SRC_poster.pdf)'
       subtitle: ''
       text: |-
         #### <mark>Circuit Foundation Model</mark>

@@ -194,7 +194,8 @@ sections:
           - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)
           - ACM Transactions on Design Automation of Electronic Systems (**TODAES**)
           - IEEE Transactions on Circuits and Systems Part II: Express Briefs (**TCAS-II**)
-          
+        * **Conference Reviewer**
+          - ICLR 2026 Workshop on AI with Recursive Self-Improvement
         
     design:
       columns: '1'

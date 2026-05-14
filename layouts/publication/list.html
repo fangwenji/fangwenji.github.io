@@ -1,0 +1,77 @@
+{{ define "main" }}
+
+<div class="max-w-prose mx-auto flex justify-center">
+  <article class="prose prose-slate lg:prose-xl dark:prose-invert">
+    <h1 class="lg:text-6xl">{{ .Title }}</h1>
+    {{ .Content }}
+  </article>
+</div>
+
+{{ $view := .Params.view | default "citation" }}
+{{ $block := . }}
+
+{{ $pages := .Pages.ByDate.Reverse }}
+{{ $config := dict
+  "columns" (.Params.columns | default 2)
+  "len" (len $pages)
+  "fill_image" (.Params.fill_image | default true)
+  "show_date" (.Params.show_date | default true)
+  "show_read_time" (.Params.show_read_time | default true)
+  "show_read_more" (.Params.show_read_more | default true)
+}}
+
+{{ range $pages }}
+  {{ if isset .Params "author_notes" }}
+    {{ $.Store.Set "has_alpine" true }}
+    {{ break }}
+  {{ end }}
+{{ end }}
+
+<div class="flex flex-col items-center">
+
+  <div class="max-w-prose mx-auto w-full mt-6 mb-2 px-4">
+    <label for="pub-search" class="sr-only">Search publications</label>
+    <div class="relative">
+      <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 dark:text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M11 19a8 8 0 100-16 8 8 0 000 16z" />
+      </svg>
+      <input id="pub-search" type="search" placeholder="Search publications by title, venue, or author…"
+        class="w-full pl-10 pr-3 py-2 rounded-md border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 placeholder-gray-400 dark:placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500" />
+    </div>
+    <p id="pub-search-empty" class="hidden mt-3 text-sm text-gray-500 dark:text-gray-400 text-center">No publications match your search.</p>
+  </div>
+
+  {{ partial "functions/render_view" (dict "fragment" "start" "page" $block "item" . "view" $view "config" $config) }}
+
+  {{ range $index, $item := $pages }}
+  {{ partial "functions/render_view" (dict "page" . "item" . "view" $view "index" $index "config" $config) }}
+  {{end}}
+
+  {{ partial "functions/render_view" (dict "fragment" "end" "page" $block "item" . "view" $view) }}
+
+</div>
+
+<script>
+(function() {
+  var input = document.getElementById('pub-search');
+  if (!input) return;
+  var empty = document.getElementById('pub-search-empty');
+  var items = document.querySelectorAll('.pub-list-item');
+  var haystack = [];
+  items.forEach(function(el) {
+    haystack.push((el.textContent || '').toLowerCase().replace(/\s+/g, ' '));
+  });
+  input.addEventListener('input', function() {
+    var q = this.value.trim().toLowerCase();
+    var anyShown = false;
+    items.forEach(function(el, i) {
+      var match = q === '' || haystack[i].indexOf(q) !== -1;
+      el.style.display = match ? '' : 'none';
+      if (match) anyShown = true;
+    });
+    if (empty) empty.classList.toggle('hidden', anyShown);
+  });
+})();
+</script>
+
+{{ end }}

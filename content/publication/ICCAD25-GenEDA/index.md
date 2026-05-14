@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In International Conference of Computer-Aided Design
-publication_short: In <mark>**ICCAD**</mark>
+publication_short: "In **ICCAD**"
 
 abstract: 
 
@@ -38,7 +38,7 @@ summary:
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

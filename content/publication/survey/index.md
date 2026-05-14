@@ -30,7 +30,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: 
-publication_short: <mark>**Under Review**</mark>
+publication_short: "**Under Review**"
 
 abstract: 
 
@@ -40,7 +40,7 @@ summary:
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

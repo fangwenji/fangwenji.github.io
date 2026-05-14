@@ -26,7 +26,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In Tools and Algorithms for the Construction and Analysis of Systems
-publication_short: In <mark>**TACAS**</mark>
+publication_short: "In **TACAS**"
 
 abstract:
 
@@ -37,7 +37,7 @@ tags:
   - Formal Verification
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

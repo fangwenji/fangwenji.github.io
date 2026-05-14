@@ -27,7 +27,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In International Conference on Learning Representations (ICLR)
-publication_short: In <mark>**ICLR**</mark>
+publication_short: "In **ICLR**"
 
 abstract: 
 
@@ -37,7 +37,7 @@ summary:
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

@@ -29,7 +29,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In Design Automation Conference
-publication_short: In <mark>**DAC**</mark>
+publication_short: "In **DAC**"
 
 abstract: 
 
@@ -39,7 +39,7 @@ summary:
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

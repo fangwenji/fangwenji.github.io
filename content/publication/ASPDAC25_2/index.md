@@ -33,7 +33,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In Asia and South Pacific Design Automation Conference (ASP-DAC)
-publication_short: In <mark>**ASP-DAC**</mark>
+publication_short: "In **ASP-DAC**"
 
 abstract: 
 
@@ -43,7 +43,7 @@ summary:
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

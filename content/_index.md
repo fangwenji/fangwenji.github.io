@@ -40,7 +40,7 @@ sections:
         #### <mark>Agentic Design Automation</mark>
           - Self-improving agentic RTL optimization [[Arxiv'26]](https://arxiv.org/abs/2604.14989)
         #### <mark>Circuit Foundation Model</mark>
-          - Survey and Position Paper: [[Survey](https://arxiv.org/abs/2504.03711)], Large Circuit Model [[SCIS'24](https://link.springer.com/journal/11432)]
+          - Survey and Position Paper: [[Survey](https://arxiv.org/abs/2504.03711)], [[SCIS'24](https://link.springer.com/journal/11432)]
           - Encoder-Based: [[DAC'25](https://arxiv.org/abs/2504.09260)], [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)], [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)]
           - Decoder-Based: [[ICCAD'25](https://arxiv.org/abs/2504.09485)], [[ASPDAC'25]](https://arxiv.org/abs/2402.00386)&[[ICCAD'24]](https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf)
         #### <mark>Supervised AI for EDA</mark>

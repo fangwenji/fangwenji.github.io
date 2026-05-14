@@ -1,0 +1,77 @@
+schema: hugoblox/author/v1
+slug: admin
+is_owner: true
+name:
+  display: Wenji Fang
+  given: Wenji
+  family: Fang
+  alternate: "方闻绩"
+  pronunciation: ""
+  pronouns: ""
+status:
+  icon: ""
+role: PhD Student
+bio: |
+  Hi! I'm Wenji Fang (方闻绩), a Ph.D. student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology, advised by [Prof. Zhiyao Xie](https://zhiyaoxie.com). Previously, I received my M.Phil in microelectronics from the Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/) & [Prof. Zhiyao Xie](https://zhiyaoxie.com), and my B.Eng in electrical engineering from Nanjing University of Aeronautics and Astronautics.
+affiliations:
+  - name: HKUST
+    url: https://hkust.edu.hk/
+links:
+  - icon: at-symbol
+    url: mailto:wfang838@connect.ust.hk
+    label: E-mail Me
+  - icon: brands/linkedin
+    url: http://linkedin.com/in/wenji-fang-1174891b3
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=YGIfGd4AAAAJ&hl=zh-CN&oi=ao
+  - icon: brands/github
+    url: https://github.com/fangwenji
+interests:
+  - AI for EDA
+  - Circuit Quality Evaluation
+  - Circuit Functional Verification
+education:
+  - degree: PhD in ECE
+    institution: HKUST
+    start: 2024-09-01
+    end: ""
+    summary: |
+      - Advisor: Prof. Zhiyao Xie
+  - degree: MPhil in Microelectronics
+    institution: HKUST(GZ)
+    start: 2022-09-01
+    end: 2024-08-01
+    summary: |
+      - GPA: 4.0/4.3
+      - Advisor: Prof. Hongce Zhang & Prof. Zhiyao Xie
+  - degree: BEng in EE
+    institution: NUAA
+    start: 2017-09-01
+    end: 2021-06-01
+    summary: |
+      - GPA: 4.0/5.0
+experience:
+  - role: Research Intern
+    org: NVIDIA
+    url: https://research.nvidia.com/labs/electronic-design-automation/
+    start: 2025-06-03
+    end: 2025-09-01
+    summary: |
+      - Manager: Dr. Mark Ren
+      - Mentor: Dr. Rongjian Liang
+  - role: Research Assistant
+    org: HKUST(GZ)
+    url: https://hkust-gz.edu.cn/
+    start: 2021-12-12
+    end: 2022-08-01
+    summary: |
+      - Advisor: Prof. Hongce Zhang
+      - Achieve an end-to-end unbounded formal verification framework for microprocessors
+  - role: VLSI Physical Design Intern (One Student One Chip Project)
+    org: Peng Cheng National Laboratory
+    url: https://www.pcl.ac.cn/
+    start: 2021-07-15
+    end: 2021-12-10
+    summary: |
+      - Mentor: Dr. Biwei Xie, Prof. Yungang Bao
+      - Complete an entire physical design process of an SoC

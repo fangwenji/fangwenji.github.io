@@ -19,17 +19,14 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: light
       background:
-        color: white
-        image:
-          # Add your image background to `assets/media/`.
-          filename: ''
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+        gradient_mesh:
+          enable: true
+      name:
+        size: md
+      avatar:
+        size: medium
+        shape: circle
   - block: markdown
     id: overview
     content:
@@ -59,9 +56,6 @@ sections:
           - Functional reasoning: NetTAG [[DAC'25](https://arxiv.org/abs/2504.09260)], CircuitEncoder [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)], GenEDA [[ICCAD'25](https://arxiv.org/abs/2504.09485)]
     design:
       columns: '1'
-      css_class: light
-      background:
-        color: '#F7F7F7'
   # - block: collection
   #   id: project
   #   content:
@@ -143,9 +137,6 @@ sections:
         
     design:
       columns: '1'
-      css_class: light
-      background:
-        color: '#F7F7F7'
   - block: markdown
     id: awards
     content:
@@ -185,9 +176,6 @@ sections:
           - MPhil thesis defence, 2024
     design:
       columns: '1'
-      css_class: light
-      background:
-        color: '#F7F7F7'  
 
   - block: markdown
     id: service
@@ -219,9 +207,6 @@ sections:
         
     design:
       columns: '1'
-      css_class: light
-      background:
-        color: '#F7F7F7'  
         
     # design:
     #   columns: '1'

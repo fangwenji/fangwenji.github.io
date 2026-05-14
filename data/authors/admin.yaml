@@ -35,20 +35,20 @@ interests:
   - VLSI Design and Verification
   - AI (Multimodal/LLM/Agent)
 education:
-  - degree: PhD in ECE
+  - degree: PhD Electronic and Computer Engineering
     institution: HKUST
     start: 2024-09
     end: Now
     summary: |
       - Advisor: Prof. Zhiyao Xie
-  - degree: MPhil in Microelectronics
+  - degree: MPhil Microelectronics
     institution: HKUST(GZ)
     start: 2022-09
     end: 2024-08
     summary: |
       - GPA: 4.0/4.3
       - Advisor: Prof. Hongce Zhang & Prof. Zhiyao Xie
-  - degree: BEng in EE
+  - degree: BEng Electrical Engineering
     institution: NUAA
     start: 2017-09
     end: 2021-06
@@ -64,6 +64,7 @@ experience:
     summary: |
       - Manager: [Dr. Mark Ren](https://research.nvidia.com/person/haoxing-mark-ren)
       - Mentor: [Dr. Rongjian Liang](https://research.nvidia.com/person/rongjian-liang)
+      - Topic: GenAI for physical design optimization
   - role: Research Assistant
     org: HKUST(GZ)
     url: https://hkust-gz.edu.cn/

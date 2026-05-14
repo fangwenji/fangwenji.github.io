@@ -42,12 +42,12 @@ sections:
         #### <mark>3. Foundation AI for EDA -- Circuit Foundation Model</mark>
           - Survey and position paper: [[Survey](https://arxiv.org/abs/2504.03711)], [[SCIS'24](https://link.springer.com/journal/11432)]
           - Circuit encoder: [[DAC'25](https://arxiv.org/abs/2504.09260)], [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)], [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)]
-          - LLM decoder: [[ICCAD'25](https://arxiv.org/abs/2504.09485)], [[ASPDAC'25]](https://arxiv.org/abs/2402.00386)&[[ICCAD'24]](https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf)
+          - LLM decoder: [[ICCAD'25](https://arxiv.org/abs/2504.09485)], [[ASPDAC'25]](https://arxiv.org/abs/2402.00386), [[ICCAD'24]](https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf)
         #### <mark>2. Supervised AI for EDA -- Task-Specific Learning</mark>
           - RTL-stage fine-grained timing slack prediction [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)]
-          - RTL-stage overall PPA prediction [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)]
+          - RTL-stage overall PPA prediction [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)], [[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)]
         #### <mark>1. EDA Algorithm Development</mark>  
-          - CPU symbolic simulation [[TACAS'23](https://link.springer.com/chapter/10.1007/978-3-031-30820-8_2)]&[[TCAD'23](https://ieeexplore.ieee.org/abstract/document/10178019/)]
+          - CPU symbolic simulation [[TACAS'23](https://link.springer.com/chapter/10.1007/978-3-031-30820-8_2)], [[TCAD'23](https://ieeexplore.ieee.org/abstract/document/10178019/)]
 
 
         ### **Task**: VLSI Design and Verification</mark>

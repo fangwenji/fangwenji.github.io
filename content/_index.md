@@ -40,16 +40,9 @@ sections:
         #### <mark>Agentic Design Automation</mark>
           - Self-improving agentic RTL optimization [[Arxiv'26]](https://arxiv.org/abs/2604.14989)
         #### <mark>Circuit Foundation Model</mark>
-          - Survey and Position Paper
-            - Survey on Circuit Foundation Models [[Paper](https://arxiv.org/abs/2504.03711)]
-            - Large Circuit Model [[SCIS'24](https://link.springer.com/journal/11432)]
-          - Encoder-Based
-            - Multimodal netlist encoder [[DAC'25](https://arxiv.org/abs/2504.09260)]
-            - Multimodal RTL encoder [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)]
-            - Cross-stage encoder alignment [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)]
-          - Decoder-Based
-            - Cross-modal encoder-decoder alignment [[ICCAD'25](https://arxiv.org/abs/2504.09485)]
-            - LLM-aided assertion generation [[ASPDAC'25]](https://arxiv.org/abs/2402.00386)&[[ICCAD'24]](https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf)
+          - Survey and Position Paper: [[Survey](https://arxiv.org/abs/2504.03711)], Large Circuit Model [[SCIS'24](https://link.springer.com/journal/11432)]
+          - Encoder-Based: [[DAC'25](https://arxiv.org/abs/2504.09260)], [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)], [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)]
+          - Decoder-Based: [[ICCAD'25](https://arxiv.org/abs/2504.09485)], [[ASPDAC'25]](https://arxiv.org/abs/2402.00386)&[[ICCAD'24]](https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf)
         #### <mark>Supervised AI for EDA</mark>
           - RTL-stage fine-grained timing slack prediction [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)]
           - RTL-stage overall PPA prediction [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)]

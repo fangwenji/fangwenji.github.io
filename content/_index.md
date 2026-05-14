@@ -36,7 +36,7 @@ sections:
       title: 'Research Highlight [(Poster)](uploads/SRC_poster.pdf)'
       subtitle: ''
       text: |-
-        ### <mark>Method: Evolving AI for EDA Paradigms</mark>
+        ### **Method:** Evolving AI for EDA Paradigms
           #### <mark>Agentic Design Automation</mark>
             - Self-improving agentic RTL optimization [[Arxiv'26]](https://arxiv.org/abs/2604.14989)
           #### <mark>Circuit Foundation Model</mark>
@@ -50,7 +50,7 @@ sections:
             - CPU symbolic simulation [[TACAS'23](https://link.springer.com/chapter/10.1007/978-3-031-30820-8_2)]&[[TCAD'23](https://ieeexplore.ieee.org/abstract/document/10178019/)]
 
 
-        ### <mark>Task: VLSI Design and Verification</mark>
+        ### **Task**: VLSI Design and Verification</mark>
           #### <mark>Design Quality: PPA Evaluation & Optimization</mark>
             - RTL Stage 
               - PPA prediction: MasterRTL [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)], RTL-Timer [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)], CircuitEncoder [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)], CircuitFusion [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)]

@@ -40,9 +40,9 @@ sections:
         #### <mark>4. Agentic AI for EDA -- Agentic Design Automation</mark>
           - Self-improving agentic RTL optimization [[Arxiv'26]](https://arxiv.org/abs/2604.14989)
         #### <mark>3. Foundation AI for EDA -- Circuit Foundation Model</mark>
-          - Survey and Position Paper: [[Survey](https://arxiv.org/abs/2504.03711)], [[SCIS'24](https://link.springer.com/journal/11432)]
-          - Encoder-Based: [[DAC'25](https://arxiv.org/abs/2504.09260)], [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)], [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)]
-          - Decoder-Based: [[ICCAD'25](https://arxiv.org/abs/2504.09485)], [[ASPDAC'25]](https://arxiv.org/abs/2402.00386)&[[ICCAD'24]](https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf)
+          - Survey and position paper: [[Survey](https://arxiv.org/abs/2504.03711)], [[SCIS'24](https://link.springer.com/journal/11432)]
+          - Encoder-based: [[DAC'25](https://arxiv.org/abs/2504.09260)], [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)], [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)]
+          - Decoder-based: [[ICCAD'25](https://arxiv.org/abs/2504.09485)], [[ASPDAC'25]](https://arxiv.org/abs/2402.00386)&[[ICCAD'24]](https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf)
         #### <mark>2. Supervised AI for EDA -- Task-Specific Learning</mark>
           - RTL-stage fine-grained timing slack prediction [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)]
           - RTL-stage overall PPA prediction [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)]
@@ -52,8 +52,8 @@ sections:
 
         ### **Task**: VLSI Design and Verification</mark>
         #### <mark>- Design Quality: PPA Evaluation & Optimization</mark>
-          - RTL-Stage PPA prediction: MasterRTL [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)], RTL-Timer [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)], CircuitEncoder [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)], CircuitFusion [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)] & optimization: Dr. RTL [[Arxiv'26]](https://arxiv.org/abs/2604.14989)
-          - Netlist/Layout-Stage PPA prediction: NetTAG [[DAC'25](https://arxiv.org/abs/2504.09260)]
+          - RTL stage: MasterRTL [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)], RTL-Timer [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)], CircuitEncoder [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)], CircuitFusion [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)], Dr. RTL [[Arxiv'26]](https://arxiv.org/abs/2604.14989)
+          - Netlist/Layout stage: NetTAG [[DAC'25](https://arxiv.org/abs/2504.09260)]
         #### <mark>- Functionality: Correctness Verification </mark>
           - Hardware Formal Verification
             - Assertion generation: AssertLLM [[ASPDAC'25]](https://arxiv.org/abs/2402.00386)&[[ICCAD'24]](https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf)

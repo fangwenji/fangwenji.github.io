@@ -37,27 +37,27 @@ sections:
       subtitle: ''
       text: |-
         ### **Method:** Evolving AI for EDA Paradigms
-        #### <mark>Agentic Design Automation</mark>
+        #### <mark>4. Agentic Design Automation</mark>
           - Self-improving agentic RTL optimization [[Arxiv'26]](https://arxiv.org/abs/2604.14989)
-        #### <mark>Circuit Foundation Model</mark>
+        #### <mark>3. Circuit Foundation Model</mark>
           - Survey and Position Paper: [[Survey](https://arxiv.org/abs/2504.03711)], [[SCIS'24](https://link.springer.com/journal/11432)]
           - Encoder-Based: [[DAC'25](https://arxiv.org/abs/2504.09260)], [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)], [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)]
           - Decoder-Based: [[ICCAD'25](https://arxiv.org/abs/2504.09485)], [[ASPDAC'25]](https://arxiv.org/abs/2402.00386)&[[ICCAD'24]](https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf)
-        #### <mark>Supervised AI for EDA</mark>
+        #### <mark>2. Supervised AI for EDA</mark>
           - RTL-stage fine-grained timing slack prediction [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)]
           - RTL-stage overall PPA prediction [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)]
-        #### <mark>EDA Algorithm Development</mark>  
+        #### <mark>1. EDA Algorithm Development</mark>  
           - CPU symbolic simulation [[TACAS'23](https://link.springer.com/chapter/10.1007/978-3-031-30820-8_2)]&[[TCAD'23](https://ieeexplore.ieee.org/abstract/document/10178019/)]
 
 
         ### **Task**: VLSI Design and Verification</mark>
-        #### <mark>Design Quality: PPA Evaluation & Optimization</mark>
+        #### <mark>- Design Quality: PPA Evaluation & Optimization</mark>
           - RTL Stage 
             - PPA prediction: MasterRTL [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)], RTL-Timer [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)], CircuitEncoder [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)], CircuitFusion [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)]
             - PPA optimization: Dr. RTL [[Arxiv'26]](https://arxiv.org/abs/2604.14989)
           - Netlist/Layout Stage
             - PPA prediction: NetTAG [[DAC'25](https://arxiv.org/abs/2504.09260)]
-        #### <mark>Functionality: Correctness Verification </mark>
+        #### <mark>- Functionality: Correctness Verification </mark>
           - Hardware Formal Verification
             - Assertion generation: AssertLLM [[ASPDAC'25]](https://arxiv.org/abs/2402.00386)&[[ICCAD'24]](https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf)
             - CPU symbolic simulation: WASIM [[TACAS'23](https://link.springer.com/chapter/10.1007/978-3-031-30820-8_2)], r-map [[TCAD'23](https://ieeexplore.ieee.org/abstract/document/10178019/)]

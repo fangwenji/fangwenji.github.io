@@ -1,0 +1,74 @@
+{{ $item := .item }}
+{{ $year_value := $item.Params.event_start | default $item.Date }}
+{{ $year_full := (time $year_value).Format "2006" }}
+{{ $year_short := (time $year_value).Format "06" }}
+
+{{/* Extract venue acronym from publication_short (e.g. "In **DAC**" → "DAC"). */}}
+{{ $short := $item.Params.publication_short | default $item.Params.publication | default "" }}
+{{ $venue := $short | replaceRE "(?i)^\\s*In\\s+" "" | replaceRE "\\*+" "" | replaceRE "<[^>]+>" "" }}
+{{ $venue = $venue | strings.TrimSpace }}
+{{ $badge := "" }}
+{{ if eq (lower $venue) "under review" }}
+  {{ $badge = $venue }}
+{{ else if $venue }}
+  {{ $badge = printf "%s '%s" $venue $year_short }}
+{{ else }}
+  {{ $badge = $year_full }}
+{{ end }}
+
+{{ $built := partial "functions/build_links" (dict "page" $item "is_list" 1) }}
+
+<div class="pub-list-item view-citation flex gap-3 sm:gap-4 py-4 border-b border-gray-200 dark:border-gray-700 last:border-b-0">
+  {{/* Venue badge */}}
+  <div class="shrink-0 pt-0.5 w-20 sm:w-24">
+    <span class="inline-flex items-center justify-center w-full px-2 py-1 rounded-md text-xs font-bold bg-primary-50 dark:bg-primary-900/40 text-primary-700 dark:text-primary-200 whitespace-nowrap">{{ $badge }}</span>
+  </div>
+
+  {{/* Content */}}
+  <div class="flex-1 min-w-0">
+    <a href="{{ $item.RelPermalink }}" class="font-semibold text-gray-900 dark:text-white hover:text-primary-700 dark:hover:text-primary-300 no-underline">{{ $item.Title }}</a>
+
+    {{ with $item.Params.authors }}
+      {{ $authors := . }}
+      {{ if not (reflect.IsSlice $authors) }}{{ $authors = slice $authors }}{{ end }}
+      <p class="mt-1 mb-0 text-sm text-gray-600 dark:text-gray-400">
+        {{- range $idx, $raw := $authors -}}
+          {{- $clean := $raw | replaceRE "\\s*[#*]+\\s*$" "" | strings.TrimSpace -}}
+          {{- $is_self := or (eq $clean "admin") (eq $clean "Wenji Fang") -}}
+          {{- $has_mark := findRE "[#*]" $raw -}}
+          {{- $display := $clean -}}
+          {{- if eq $clean "admin" }}{{ $display = "Wenji Fang" }}{{ end -}}
+          {{- if gt $idx 0 }}, {{ end -}}
+          {{- if $is_self -}}
+            <span class="font-semibold text-gray-900 dark:text-gray-100">{{ $display }}</span>
+          {{- else -}}
+            {{ $display }}
+          {{- end -}}
+          {{- if $has_mark }}<sup>*</sup>{{ end -}}
+        {{- end -}}
+      </p>
+    {{ end }}
+
+    {{ if $built }}
+    <div class="mt-1.5 flex flex-wrap gap-x-3 gap-y-1 text-xs">
+      {{ range $built }}
+        {{ if in .contexts "list" }}
+          {{ $type := .type | default "link" }}
+          {{ $label := lower $type }}
+          {{ $url := .url | default "" }}
+          {{ $scheme := (urls.Parse $url).Scheme }}
+          {{ $target := "" }}
+          {{ if not $scheme }}
+            {{ with ($item.Resources.GetMatch $url) }}{{ $url = .RelPermalink }}{{ else }}{{ $url = $url | relURL }}{{ end }}
+          {{ else if in (slice "http" "https") $scheme }}
+            {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+          {{ end }}
+          {{ if ne $type "bibtex" }}
+            <a href="{{ $url | safeURL }}" {{ $target | safeHTMLAttr }} class="text-primary-700 dark:text-primary-300 hover:underline whitespace-nowrap font-medium">[{{ $label }}]</a>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</div>

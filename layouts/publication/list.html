@@ -9,8 +9,9 @@
 
 {{ $view := .Params.view | default "citation" }}
 {{ $block := . }}
-
 {{ $pages := .Pages.ByDate.Reverse }}
+{{ $groups := $pages.GroupByDate "2006" }}
+
 {{ $config := dict
   "columns" (.Params.columns | default 2)
   "len" (len $pages)
@@ -27,9 +28,9 @@
   {{ end }}
 {{ end }}
 
-<div class="flex flex-col items-center">
+<div class="max-w-3xl mx-auto px-4 w-full">
 
-  <div class="max-w-prose mx-auto w-full mt-6 mb-2 px-4">
+  <div class="mt-6 mb-4">
     <label for="pub-search" class="sr-only">Search publications</label>
     <div class="relative">
       <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 dark:text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -41,13 +42,16 @@
     <p id="pub-search-empty" class="hidden mt-3 text-sm text-gray-500 dark:text-gray-400 text-center">No publications match your search.</p>
   </div>
 
-  {{ partial "functions/render_view" (dict "fragment" "start" "page" $block "item" . "view" $view "config" $config) }}
-
-  {{ range $index, $item := $pages }}
-  {{ partial "functions/render_view" (dict "page" . "item" . "view" $view "index" $index "config" $config) }}
-  {{end}}
-
-  {{ partial "functions/render_view" (dict "fragment" "end" "page" $block "item" . "view" $view) }}
+  {{ range $groups }}
+    <section data-pub-year-group="{{ .Key }}">
+      <h2 class="pub-year-heading mt-8 mb-3 text-2xl font-bold text-gray-900 dark:text-white border-b border-gray-300 dark:border-gray-700 pb-1">{{ .Key }}</h2>
+      <div>
+        {{ range $idx, $item := .Pages }}
+          {{ partial "functions/render_view" (dict "page" $item "item" $item "view" $view "index" $idx "config" $config) }}
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
 
 </div>
 
@@ -56,10 +60,10 @@
   var input = document.getElementById('pub-search');
   if (!input) return;
   var empty = document.getElementById('pub-search-empty');
-  var items = document.querySelectorAll('.pub-list-item');
-  var haystack = [];
-  items.forEach(function(el) {
-    haystack.push((el.textContent || '').toLowerCase().replace(/\s+/g, ' '));
+  var items = Array.from(document.querySelectorAll('.pub-list-item'));
+  var groups = Array.from(document.querySelectorAll('[data-pub-year-group]'));
+  var haystack = items.map(function(el) {
+    return (el.textContent || '').toLowerCase().replace(/\s+/g, ' ');
   });
   input.addEventListener('input', function() {
     var q = this.value.trim().toLowerCase();
@@ -68,6 +72,10 @@
       var match = q === '' || haystack[i].indexOf(q) !== -1;
       el.style.display = match ? '' : 'none';
       if (match) anyShown = true;
+    });
+    groups.forEach(function(g) {
+      var visible = g.querySelectorAll('.pub-list-item:not([style*="display: none"])').length;
+      g.style.display = visible === 0 ? 'none' : '';
     });
     if (empty) empty.classList.toggle('hidden', anyShown);
   });

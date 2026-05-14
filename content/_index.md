@@ -178,28 +178,18 @@ sections:
     id: publication
     content:
       title: Publications
-      class: author-notes
-      text: "Showing (co-)first-authored publications."
+      text: "(first-authored publications)"
       count: 100
       filters:
         folders:
           - publication
         featured_only: true
+      archive:
+        enable: true
+        text: "See all publications →"
+        link: "/publication/"
     design:
       view: citation
-  - block: markdown
-    id: publication-see-all
-    content:
-      title: ''
-      subtitle: ''
-      text: |-
-        <div class="flex justify-center -mt-6">
-          <a href="/publication/" class="inline-flex items-center gap-2 px-4 py-2 rounded-md text-sm font-medium bg-primary-50 dark:bg-primary-900/40 text-primary-700 dark:text-primary-200 hover:bg-primary-100 dark:hover:bg-primary-900/60 no-underline transition-colors">See all publications <span aria-hidden="true">→</span></a>
-        </div>
-    design:
-      columns: '1'
-      spacing:
-        padding: [0, 0, 0, 0]
 
   # - block: markdown
   #  id: experience

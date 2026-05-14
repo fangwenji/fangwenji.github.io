@@ -1,0 +1,22 @@
+/* Tighten spacing inside the homepage Publications block. */
+#publication .mb-6 {
+  margin-bottom: 0.5rem;
+}
+
+#publication > .home-section-bg > .flex.flex-col.items-center.px-6,
+#publication > div > .flex.flex-col.items-center.px-6 {
+  margin-top: 0;
+}
+
+#publication .pub-list-item:first-child {
+  padding-top: 0.25rem;
+}
+
+/* Tighten the gap between the citation list and the See-all archive button. */
+#publication .mt-10 {
+  margin-top: 0.75rem;
+}
+#publication .pb-5,
+#publication .lg\:pb-8 {
+  padding-bottom: 0;
+}

@@ -33,7 +33,7 @@ sections:
   - block: markdown
     id: overview
     content:
-      title: 'Research Highlight [(Poster)](uploads/SRC_poster.pdf)'
+      title: '[Research Highlight](uploads/SRC_poster.pdf)'
       subtitle: ''
       text: |-
         ### **Method:** Evolving AI for EDA Paradigms

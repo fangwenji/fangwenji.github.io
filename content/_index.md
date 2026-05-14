@@ -51,10 +51,10 @@ sections:
 
 
         ### **Task**: VLSI Design and Verification</mark>
-        #### <mark>- Design Quality: PPA Evaluation & Optimization</mark>
+        #### <mark>-- Design Quality: PPA Evaluation & Optimization</mark>
           - RTL stage: MasterRTL [[TCAD'24](https://ieeexplore.ieee.org/abstract/document/10577671/)]&[[ICCAD'23](https://ieeexplore.ieee.org/abstract/document/10323951)], RTL-Timer [[DAC'24](https://dl.acm.org/doi/abs/10.1145/3649329.3655671)], CircuitEncoder [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)], CircuitFusion [[ICLR'25](https://openreview.net/forum?id=rbnf7oe6JQ)], Dr. RTL [[Arxiv'26]](https://arxiv.org/abs/2604.14989)
           - Netlist/Layout stage: NetTAG [[DAC'25](https://arxiv.org/abs/2504.09260)]
-        #### <mark>- Functionality: Correctness Verification </mark>
+        #### <mark>-- Functionality: Correctness Verification </mark>
           - Hardware formal verification: AssertLLM [[ASPDAC'25]](https://arxiv.org/abs/2402.00386)&[[ICCAD'24]](https://zhiyaoxie.com/files/ICCAD24_OpenLLM.pdf), WASIM [[TACAS'23](https://link.springer.com/chapter/10.1007/978-3-031-30820-8_2)], r-map [[TCAD'23](https://ieeexplore.ieee.org/abstract/document/10178019/)]
           - Functional reasoning: NetTAG [[DAC'25](https://arxiv.org/abs/2504.09260)], CircuitEncoder [[ASPDAC'25](https://dl.acm.org/doi/abs/10.1145/3658617.3697597)], GenEDA [[ICCAD'25](https://arxiv.org/abs/2504.09485)]
     design:

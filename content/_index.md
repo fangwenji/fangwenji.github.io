@@ -244,6 +244,7 @@ sections:
           </div>
           <div>
             <ul class="space-y-3">
+              <li>HKUST RedBird Academic Excellence Award for Continuing PhD Students, 2026</li>
               <li>Inaugural <a href="https://iclad.ai/lad25-fellows">LAD Fellowship</a>, 2025</li>
               <li>2nd Place Award of <a href="https://src.acm.org/winners/2026">ACM SIGDA Student Research Competition (SRC)</a>, ICCAD, 2025</li>
               <li>ICCAD Student Scholar Program Grant, 2023, 2025</li>

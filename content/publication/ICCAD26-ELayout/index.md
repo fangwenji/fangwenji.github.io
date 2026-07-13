@@ -1,26 +1,29 @@
 ---
-title: "A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA"
+title: "E-Layout: Layout-Stage Restructuring via RL-Optimized Equality-Saturated Graph Retrieval-Augmented Generation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin *
-- Jing Wang *
-- Yao Lu
+- admin
+- Rongjian Liang
+- Yi-Chen Lu
+- Cunxi Yu
+- Chen Chen
 - Shang Liu
-- Yuchao Wu
-- Yuzhe Ma
+- Chenhui Deng
+- Wenkai Li
+- Haoxing Ren
 - Zhiyao Xie
 
-
 # Author notes (optional)
+author_notes:
 
-date: "2025-03-29T00:00:00Z"
+date: "2026-06-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-29T00:00:00Z"
+publishDate: "2026-06-29T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +32,8 @@ publishDate: "2025-03-29T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication:  In ACM Transactions on Design Automation of Electronic Systems
-publication_short: "**TODAES**"
+publication: In International Conference of Computer-Aided Design
+publication_short: "In **ICCAD**"
 
 abstract: 
 
@@ -47,12 +50,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2504.03711'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 
 url_source: ''
 url_video: ''
 

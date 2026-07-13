@@ -1,26 +1,27 @@
 ---
-title: "A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA"
+title: "Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin *
-- Jing Wang *
+- admin
 - Yao Lu
 - Shang Liu
-- Yuchao Wu
-- Yuzhe Ma
+- Jing Wang
+- Ziyan Guo
+- Junxian He
+- Fengbin Tu
 - Zhiyao Xie
 
-
 # Author notes (optional)
+author_notes:
 
-date: "2025-03-29T00:00:00Z"
+date: "2026-06-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-29T00:00:00Z"
+publishDate: "2026-06-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +30,8 @@ publishDate: "2025-03-29T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication:  In ACM Transactions on Design Automation of Electronic Systems
-publication_short: "**TODAES**"
+publication: In International Conference of Computer-Aided Design
+publication_short: "In **ICCAD**"
 
 abstract: 
 
@@ -47,12 +48,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2504.03711'
+url_pdf: 'https://arxiv.org/abs/2504.09485'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides:
 url_source: ''
 url_video: ''
 

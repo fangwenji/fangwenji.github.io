@@ -119,7 +119,7 @@ sections:
                         <span class="font-medium text-gray-900 dark:text-gray-100 whitespace-nowrap">CircuitFusion</span>
                         <a class="inline-flex items-center whitespace-nowrap px-2 py-0.5 rounded-md text-xs font-medium bg-primary-50 dark:bg-primary-900/40 text-primary-700 dark:text-primary-200 hover:bg-primary-100 dark:hover:bg-primary-900/60 no-underline transition-colors" href="https://openreview.net/forum?id=rbnf7oe6JQ">ICLR'25</a><span>,</span>
                         <span class="font-medium text-gray-900 dark:text-gray-100 whitespace-nowrap">Dr. RTL</span>
-                        <a class="inline-flex items-center whitespace-nowrap px-2 py-0.5 rounded-md text-xs font-medium bg-primary-50 dark:bg-primary-900/40 text-primary-700 dark:text-primary-200 hover:bg-primary-100 dark:hover:bg-primary-900/60 no-underline transition-colors" href="https://arxiv.org/abs/2604.14989">Arxiv'26</a>
+                        <a class="inline-flex items-center whitespace-nowrap px-2 py-0.5 rounded-md text-xs font-medium bg-primary-50 dark:bg-primary-900/40 text-primary-700 dark:text-primary-200 hover:bg-primary-100 dark:hover:bg-primary-900/60 no-underline transition-colors" href="https://arxiv.org/abs/2604.14989">ICCAD'26</a>
                       </span>
                     </li>
                     <li class="text-sm text-gray-700 dark:text-gray-300">

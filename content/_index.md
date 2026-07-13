@@ -48,7 +48,7 @@ sections:
                   <ul class="mt-2 mb-0 space-y-1.5 list-disc pl-5 marker:text-primary-500 dark:marker:text-primary-400">
                     <li class="text-sm text-gray-700 dark:text-gray-300">
                       Self-improving agentic RTL optimization:
-                      <a class="inline-flex items-center whitespace-nowrap px-2 py-0.5 ml-1 rounded-md text-xs font-medium bg-primary-50 dark:bg-primary-900/40 text-primary-700 dark:text-primary-200 hover:bg-primary-100 dark:hover:bg-primary-900/60 no-underline transition-colors" href="https://arxiv.org/abs/2604.14989">Arxiv'26</a>
+                      <a class="inline-flex items-center whitespace-nowrap px-2 py-0.5 ml-1 rounded-md text-xs font-medium bg-primary-50 dark:bg-primary-900/40 text-primary-700 dark:text-primary-200 hover:bg-primary-100 dark:hover:bg-primary-900/60 no-underline transition-colors" href="https://arxiv.org/abs/2604.14989">ICCAD'26</a>
                     </li>
                   </ul>
                 </div>

@@ -62,9 +62,7 @@ experience:
     start: 2026-08-12
     end: Now
     summary: |
-      - Manager: [Dr. Mark Ren](https://research.nvidia.com/person/haoxing-mark-ren)
-      - Mentor: [Dr. Rongjian Liang](https://research.nvidia.com/person/rongjian-liang)
-      - Topic: GenAI for physical design optimization
+      - Mentor: [Peichen Xie](https://www.microsoft.com/en-us/research/people/peichenxie/)
   - role: Research Intern
     org: NVIDIA (Design Automation Research Group)
     url: https://research.nvidia.com/labs/electronic-design-automation/

@@ -31,24 +31,25 @@ links:
   - icon: brands/github
     url: https://github.com/fangwenji
 interests:
-  - AI for EDA
+  - AI for EDA/Chip Design
   - VLSI Design and Verification
   - AI (Multimodal/LLM/Agent)
+  - Formal Methods
 education:
-  - degree: PhD Electronic and Computer Engineering
+  - degree: Ph.D. Electronic and Computer Engineering
     institution: HKUST
     start: 2024-09
     end: Now
     summary: |
       - Advisor: Prof. Zhiyao Xie
-  - degree: MPhil Microelectronics
+  - degree: M.Phil. Microelectronics
     institution: HKUST(GZ)
     start: 2022-09
     end: 2024-08
     summary: |
       - GPA: 4.0/4.3
       - Advisor: Prof. Hongce Zhang & Prof. Zhiyao Xie
-  - degree: BEng Electrical Engineering
+  - degree: B.Eng. Electrical Engineering
     institution: NUAA
     start: 2017-09
     end: 2021-06

@@ -326,6 +326,7 @@ sections:
               <li>
                 <strong>Conference Reviewer</strong>
                 <ul>
+                  <li>NeurIPS 2026 </li>
                   <li>ICLR 2026 Workshop on AI with Recursive Self-Improvement</li>
                 </ul>
               </li>

@@ -64,6 +64,8 @@ experience:
     end: Now
     summary: |
       - Mentor: [Peichen Xie](https://www.microsoft.com/en-us/research/people/peichenxie/)
+      - Manager: [Dr. Fan Yang](https://fanyangcs.github.io/)
+      - Topic: Topic: Formal verification (Lean 4) for hardware circuits and AI systems
   - role: Research Intern
     org: NVIDIA (Design Automation Research Group)
     url: https://research.nvidia.com/labs/electronic-design-automation/
@@ -73,7 +75,7 @@ experience:
     summary: |
       - Manager: [Dr. Mark Ren](https://research.nvidia.com/person/haoxing-mark-ren)
       - Mentor: [Dr. Rongjian Liang](https://research.nvidia.com/person/rongjian-liang)
-      - Topic: GenAI for physical design optimization
+      - Developed a GenAI-based layout timing optimization tool
   - role: Research Assistant
     org: HKUST(GZ)
     url: https://hkust-gz.edu.cn/
